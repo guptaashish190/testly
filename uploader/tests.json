@@ -1,0 +1,6156 @@
+[
+    {
+     "name": "17 - ALPHA OH PROGESTERONE - HORMONE ASSAYS",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 700,
+     "mrp": 1550
+    },
+    {
+     "name": "17-OH KETOSTEROIDS - 24Hrs. Urine",
+     "method": "Column Chromatograp hy",
+     "reported_on": "4th Working Day",
+     "price": 3250,
+     "mrp": 5250
+    },
+    {
+     "name": "5-ALPHA DHT (DI -HYDRO TESTOSTERONE) - HORMONE",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1450,
+     "mrp": 3150
+    },
+    {
+     "name": "5-HYDROXY INDOLE ACETIC ACID (5- HIAA)",
+     "method": "High Performance Liquid\nChromatograp",
+     "reported_on": "6th  Working day",
+     "price": 2050,
+     "mrp": 3050
+    },
+    {
+     "name": "1, 25-Di HYDROXY CHOLECALCIFEROL\n(Vitamin D3)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1850,
+     "mrp": 3250
+    },
+    {
+     "name": "ABSOLUTE EOSINOPHIL COUNT",
+     "method": "Electronic Cell Counter & Microscopy",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "ABSOLUTE LYMPHOCYTE COUNT",
+     "method": "Electronic Cell Counter & Microscopy",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "ABSOLUTE NEUTROPHIL COUNT",
+     "method": "Electronic Cell Counter & Microscopy",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "ABSOLUTE RETICULOCYTE COUNT",
+     "method": "Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 90,
+     "mrp": 200
+    },
+    {
+     "name": "ABSOLUTE WBC COUNT",
+     "method": "Electronic Cell Counter & Microscopy",
+     "price": 90,
+     "mrp": 200
+    },
+    {
+     "name": "ACETONE",
+     "method": "Biochemistry",
+     "reported_on": "3rd Working Day",
+     "price": 400,
+     "mrp": 750
+    },
+    {
+     "name": "ACETYLCHOLINE RECEPTOR ANTIBODIES\n(MYASTHENIA GRAVIS)",
+     "method": "Radio Immunoassay( RIA)",
+     "reported_on": "3rd working Day",
+     "price": 3250,
+     "mrp": 4650
+    },
+    {
+     "name": "ACID FAST SUSCEPTIBILITY - 10 DRUGS (BACTEC)",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 6250,
+     "mrp": 10500
+    },
+    {
+     "name": "ACID FAST SUSCEPTIBILITY - 5 DRUGS (BACTEC)",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 3050,
+     "mrp": 6250
+    },
+    {
+     "name": "ACID FAST SUSPECTIBILITY - 10 DRUGS. (L-J)",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 2550,
+     "mrp": 4550
+    },
+    {
+     "name": "ACID FAST SUSPECTIBILITY - 5 DRUGS (L- J)",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 3250
+    },
+    {
+     "name": "ACID PHOSPHATASE - TOTAL",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "ACTH (ADRENOCORTICOTROPIC HORMONE)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 825,
+     "mrp": 2050
+    },
+    {
+     "name": "ACTIVATED PARTIAL THROMBOPLASTIN TIME(APTT\/PTTK)",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 500
+    },
+    {
+     "name": "ACUTE LEUKEMIA - MRD PANEL (MRD & RELAPSE)",
+     "method": "Flow Cytometry",
+     "reported_on": "3rd Working Day",
+     "price": 9250,
+     "mrp": 13250
+    },
+    {
+     "name": "ACUTE LEUKEMIA BASIC LINEAGE (T, B, MYELOID) PANEL",
+     "method": "Flow Cytometry",
+     "reported_on": "3rd Working Day",
+     "price": 5050,
+     "mrp": 7550
+    },
+    {
+     "name": "ACUTE LEUKEMIA COMPREHENSIVE DIAGNOSTIC PANEL (ALL)",
+     "method": "Flow Cytometry",
+     "reported_on": "3rd Working Day",
+     "price": 8150,
+     "mrp": 11800
+    },
+    {
+     "name": "ACUTE LYMPHOBLASTIC LEUKEMIA (ALL) CHARACTERIZATION PANEL",
+     "method": "Flow Cytometry",
+     "reported_on": "3rd Working Day",
+     "price": 6850,
+     "mrp": 10500
+    },
+    {
+     "name": "ACUTE MYELOID LEUKEMIA (AML) - FLT3 MUTATIONS",
+     "method": "FLOW CYTOMETRY",
+     "reported_on": "3rd Working Day",
+     "price": 3350,
+     "mrp": 5850
+    },
+    {
+     "name": "ACUTE MYELOID LEUKEMIA (AML) CHARACTERIZATION PANEL",
+     "method": "Flow Cytometry",
+     "reported_on": "3rd Working Day",
+     "price": 6850,
+     "mrp": 10500
+    },
+    {
+     "name": "ACUTE MYELOID LEUKEMIA (AML)- NPM1 GENE MUTATIONS",
+     "method": "FLOW CYTOMETRY",
+     "reported_on": "3rd Working Day",
+     "price": 2550,
+     "mrp": 4550
+    },
+    {
+     "name": "ACUTE PROMYELOID LEUKEMIA (APML) - PML-RARA",
+     "method": "FLOW CYTOMETRY",
+     "reported_on": "3rd Working Day",
+     "price": 3750,
+     "mrp": 5850
+    },
+    {
+     "name": "ADENOSINE DEAMINASE - ASCITIC FLUID",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "ADENOSINE DEAMINASE - PLEURAL FLUID",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "ADENOSINE DEAMINASE - SERUM",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "ADENOSINE DEAMINASE - SYNOVIAL FLUID",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "ADENOSINE DEAMINASE (ADA)-CSF",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "ADENOSINE DEAMINASE- FLUID",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "ADH (ANTIDIURETIC HORMONE) - HORMONE ASSAYS",
+     "method": "Radio Immunoassay",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 3750,
+     "mrp": 5850
+    },
+    {
+     "name": "AFB (Ziehl Nelsen) STAIN",
+     "method": "Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 85,
+     "mrp": 190
+    },
+    {
+     "name": "AFB BACTEC STAIN & MGIT CULTURE (ANY THREE SAMPLES)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "4th TO 6th Week",
+     "price": 750,
+     "mrp": 1550
+    },
+    {
+     "name": "AFB CULTURE (L-J)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "6th TO 8th Week",
+     "price": 300,
+     "mrp": 700
+    },
+    {
+     "name": "AFB CULTURE (WITHOUT IDENTIFICATION)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "4th TO 6th Week",
+     "price": 750,
+     "mrp": 1550
+    },
+    {
+     "name": "AFB RAPID CULTURE (BD BACTEC MGIT)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "4th TO 6th Week",
+     "price": 500,
+     "mrp": 1150
+    },
+    {
+     "name": "AFB SENSITIVITY, SINGLE DRUG : CIPROFLOXACIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY, SINGLE DRUG\n:CLOFAZIMINE",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY, SINGLE DRUG\n:ETHAMBUTOL",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY, SINGLE DRUG\n:ETHIONAMIDE",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY, SINGLE DRUG\n:ISONIAZID",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY, SINGLE DRUG\n:OFLOXACIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY, SINGLE DRUG\n:PYRAZINAMIDE",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY,SINGLE DRUG\n:KANAMYCINA",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB SENSITIVITY,SINGLE DRUG\n:RIFAMPICIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "AFB-SUSCEPTIBILITY, SINGLE DRUG : AMIKACIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB-SUSCEPTIBILITY, SINGLE DRUG : CAPREOMYCIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB-SUSCEPTIBILITY, SINGLE DRUG : ERYTHROMYCIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB-SUSCEPTIBILITY, SINGLE DRUG : LEVOFLOXACIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "AFB-SUSCEPTIBILITY, SINGLE DRUG : STREPTOMYCIN",
+     "method": "Automated Sensitivity",
+     "reported_on": "28th - 32nd Working Day",
+     "price": 1450,
+     "mrp": 2650
+    },
+    {
+     "name": "ALBERT STAIN (C.Diphtheriae)",
+     "method": "Light Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "ALBUMIN",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "ALBUMIN:GLOBULIN (A:G) RATIO",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "ALCIAN BLUE STAIN",
+     "method": "Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 280,
+     "mrp": 600
+    },
+    {
+     "name": "ALCOHOL",
+     "method": "Spectrophotom etry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 780,
+     "mrp": 1600
+    },
+    {
+     "name": "ALDOLASE",
+     "method": "Spectrophotom etry",
+     "reported_on": "3rd Working Day",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "ALDOSTERONE (SERUM)- HORMONE ASSAYS",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 2050
+    },
+    {
+     "name": "ALKALINE PHOSPHATASE (ALP)",
+     "method": "Spectrophotom etry(IFCC)",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "ALLERGY - FOOD (FOOD+NON VEG)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 4850
+    },
+    {
+     "name": "ALLERGY - FOOD(VEG ONLY)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 1750,
+     "mrp": 4050
+    },
+    {
+     "name": "ALLERGY - INHALANT",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 1750,
+     "mrp": 4050
+    },
+    {
+     "name": "ALLERGY - WITHOUT DURGS (FOOD+INHALANT+NON VEG)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 2850,
+     "mrp": 6500
+    },
+    {
+     "name": "ALLERGY COMPREHENSIVE PANEL(FOOD+INHALANT+NON VEG+DRUG)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 3250,
+     "mrp": 8500
+    },
+    {
+     "name": "ALLERGY CONTACTS",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 4850
+    },
+    {
+     "name": "ALLERGY DRUGS- 31 DRUGS",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 4850
+    },
+    {
+     "name": "ALLERGY- WITHOUT NON VEG (FOOD+INHALANT)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 2850,
+     "mrp": 6500
+    },
+    {
+     "name": "ALPHA FETO PROTEIN (AFP) - TITRE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 350,
+     "mrp": 950
+    },
+    {
+     "name": "ALPHA FETO PROTEIN (AFP) TUMOR MARKER",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 850
+    },
+    {
+     "name": "ALPHA FETO PROTEIN (AFP)-ASCITIC FLUID",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 300,
+     "mrp": 850
+    },
+    {
+     "name": "ALPHA HYDROXY BUTYRATE DEHYDROGENASE (HBDH)- LDH -1",
+     "method": "Spectrophotom etry",
+     "reported_on": "3rd Working Day",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "ALPHA-1 ACID GLYCOPROTEIN",
+     "method": "Electro\nChemiluminesc ence Immunoassay",
+     "reported_on": "3rd Working Day",
+     "price": 1250,
+     "mrp": 2450
+    },
+    {
+     "name": "ALPHA-1 ANTI TRYPSIN QUANTITATIVE",
+     "method": "Nephelometry",
+     "reported_on": "Same Day",
+     "price": 950,
+     "mrp": 1850
+    },
+    {
+     "name": "ALUMINIUM",
+     "method": "GraphiteFurnac eAtomicAbsorp tionSpectromet\nry(GFAAS)",
+     "reported_on": "3rd Working Day",
+     "price": 1250,
+     "mrp": 2450
+    },
+    {
+     "name": "AMINOLVULINIC ACID (ALA)",
+     "method": "GraphiteFurnac eAtomicAbsorp tionSpectromet\nry(GFAAS)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2650,
+     "mrp": 4050
+    },
+    {
+     "name": "AML COMBO III",
+     "method": "FLOW CYTOMETRY",
+     "reported_on": "3rd Working Day",
+     "price": 6850,
+     "mrp": 9850
+    },
+    {
+     "name": "AML TRANSLOCATION PANEL",
+     "method": "Multiplesx RT PCR",
+     "reported_on": "3rd Working Day",
+     "price": 2050,
+     "mrp": 4850
+    },
+    {
+     "name": "AMMONIA",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 550,
+     "mrp": 1050
+    },
+    {
+     "name": "AMOEBIC SEROLOGY(LIVER ABSCESS)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "AMYLASE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 460
+    },
+    {
+     "name": "AMYLASE - 24Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 460
+    },
+    {
+     "name": "AMYLASE - URINE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 460
+    },
+    {
+     "name": "ANA \/ ENA BLOT PROFILE - QUALITATIVE",
+     "method": "Immuno Fluorescence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2250,
+     "mrp": 5000
+    },
+    {
+     "name": "ANDROSTENEDIONE (A4) - HORMONE ASSAYS",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1040,
+     "mrp": 2250
+    },
+    {
+     "name": "ANGIOTENSIN CONVERTING ENZYME (ACE)",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 525,
+     "mrp": 950
+    },
+    {
+     "name": "ANTI CARDIOLIPIN ANTIBODY IgA",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "ANTI CARDIOLIPIN ANTIBODY IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "ANTI CARDIOLIPIN ANTIBODY IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "ANTI CCP (ANTI CYCLIC CIRULLINATED PEPTIDE)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 650,
+     "mrp": 1300
+    },
+    {
+     "name": "ANTI CYSTICERCOSIS ANTIBODY (TAENIA SOLIUM)-IGG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 650,
+     "mrp": 1500
+    },
+    {
+     "name": "ANTI DNASE B",
+     "method": "Agglutination",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 700,
+     "mrp": 1450
+    },
+    {
+     "name": "ANTI DS DNA ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "ANTI DS- DNA ANTIBODY - TITRE",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "price": 1500,
+     "mrp": 2450
+    },
+    {
+     "name": "ANTI DS DNA ANTIBODY, IFA - AUTO - IMMUNE TEST MEN",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "2nd Working Day",
+     "price": 950,
+     "mrp": 1850
+    },
+    {
+     "name": "ANTI JO-1 ANTIBODY",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "ANTI MITOCHONDRIAL ANTIBODY",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "2nd Working Day",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "ANTI MITOCHONDRIAL ANTIBODY - IFA",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "2nd Working Day",
+     "price": 950,
+     "mrp": 2050
+    },
+    {
+     "name": "ANTI MULLERIAN HORMONE (AMH)",
+     "method": "Electro\nChemiluminsce ne Assay (ECLIA)",
+     "reported_on": "Same Day",
+     "price": 950,
+     "mrp": 1900
+    },
+    {
+     "name": "ANTI NEUTROPHILIC CYTOPLASMIC ANTIBODY (ANCA) -C",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1400
+    },
+    {
+     "name": "ANTI NEUTROPHILIC CYTOPLASMIC ANTIBODY (ANCA) TITRE",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "2nd Working Day",
+     "price": 1850,
+     "mrp": 2850
+    },
+    {
+     "name": "ANTI NEUTROPHILIC CYTOPLASMIC ANTIBODY (ANCA)-IFA",
+     "method": "Immunofluores cence- Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 900,
+     "mrp": 2050
+    },
+    {
+     "name": "ANTI NUCLEAR ANTIBODY (ANA)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 750
+    },
+    {
+     "name": "ANTI NUCLEAR ANTIBODY -TITRES",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "3rd Working Day",
+     "price": 1150,
+     "mrp": 2550
+    },
+    {
+     "name": "ANTI NUCLEAR ANTIBODY-IFA",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "2nd Working Day",
+     "price": 450,
+     "mrp": 1250
+    },
+    {
+     "name": "ANTI PHOSPHOLIPID ANTIBODY IgA",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "ANTI PHOSPHOLIPID ANTIBODY IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "ANTI PHOSPHOLIPID ANTIBODY IGM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "ANTI SACCHROMYSES CEREVISIAE IgA (ASCA-IgA)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "2nd Working Day",
+     "price": 800,
+     "mrp": 2050
+    },
+    {
+     "name": "ANTI SACCHROMYSES CEREVISIAE IgG (ASCA- IgG)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "2nd Working Day",
+     "price": 800,
+     "mrp": 2050
+    },
+    {
+     "name": "ANTI SMOOTH ANTIBODY (ANTI SM)",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "ANTI SOLUBLE LIVER ANTIGEN (SLA)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "3rd Working Day",
+     "price": 1150,
+     "mrp": 1850
+    },
+    {
+     "name": "ANTI SPERM ANTIBODY - AUTO - IMMUNE TEST MENU",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 1050
+    },
+    {
+     "name": "ANTI SS-A ANTIBODY",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "ANTI SS-B ANTIBODY",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "ANTI STREPTOLYSIN O (ASO) - QUALITATIVE",
+     "method": "Slide Agglutination",
+     "reported_on": "2nd Working Day",
+     "price": 230,
+     "mrp": 500
+    },
+    {
+     "name": "ANTI STREPTOLYSIN O (ASO) TITRE - QUANTITATIVE",
+     "method": "Immunoturbidi metry",
+     "reported_on": "2nd Working Day",
+     "price": 280,
+     "mrp": 600
+    },
+    {
+     "name": "ANTI THROMBIN III",
+     "method": "Turbidometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1600,
+     "mrp": 2850
+    },
+    {
+     "name": "ANTI THYROGLOBULIN (ATG)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 575,
+     "mrp": 1450
+    },
+    {
+     "name": "ANTI TPO (THYROID PEROXIDASE) ANTIBODY",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 575,
+     "mrp": 1450
+    },
+    {
+     "name": "ANTI-MUSCLE SPECIFIC KINASE ANTIBODY(MUSK Ab)-MYASTHENIA GRAVIS",
+     "method": "RIA",
+     "reported_on": "3rd Working Day",
+     "price": 5250,
+     "mrp": 7500
+    },
+    {
+     "name": "APOLIPOPROTEIN A1 (APO-A1)",
+     "method": "Nephelometry",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 700
+    },
+    {
+     "name": "APOLIPOPROTEIN B (APO-B)",
+     "method": "Nephelometry",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 700
+    },
+    {
+     "name": "ARSENIC - BLOOD",
+     "method": "ICP-OES",
+     "reported_on": "3rd Working Day",
+     "price": 1850,
+     "mrp": 2850
+    },
+    {
+     "name": "ARSENIC - URINE",
+     "method": "ICP-OES",
+     "reported_on": "3rd Working Day",
+     "price": 1850,
+     "mrp": 2850
+    },
+    {
+     "name": "ARTHRITIS (BONE PROFILE WITH RA - FACTOR)",
+     "method": "Nephelometry",
+     "reported_on": "Same Day",
+     "price": 480,
+     "mrp": 1050
+    },
+    {
+     "name": "ASMA (ANTI SMOOTH MUSCLE ANTIBODY)",
+     "method": "Immunofluores cence- Microscopy IFA",
+     "reported_on": "2nd Working Day",
+     "price": 950,
+     "mrp": 2050
+    },
+    {
+     "name": "ASMA (ANTI SMOOTH MUSCLE ANTIBODY) TITRE",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "2nd Working Day",
+     "price": 1850,
+     "mrp": 2850
+    },
+    {
+     "name": "ASPERGILLUS IGE ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "ASPERGILLUS IGG ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "ASPERGILLUS IGM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "AURAMINE RHODAMINE STAIN",
+     "method": "Light Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "BCR-ABL (CML) QUANTITATIVE",
+     "method": "Transcript\/Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 3550,
+     "mrp": 5550
+    },
+    {
+     "name": "BCR-ABL FUSION TRANSCRIPT(IS)",
+     "method": "Transcript\/Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 3550,
+     "mrp": 5550
+    },
+    {
+     "name": "BCR-ABL GENE TRANSLOCATION BY FISH",
+     "method": "FISH",
+     "reported_on": "5th Working Day",
+     "price": 3350,
+     "mrp": 5050
+    },
+    {
+     "name": "BCR-ABL MULTIPLEX FOR DETECTION OF TRANSCRIPT",
+     "method": "Transcript\/Real Time PCR",
+     "reported_on": "5th Working Day",
+     "price": 3750,
+     "mrp": 5850
+    },
+    {
+     "name": "BCR-ABL QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 3250,
+     "mrp": 4850
+    },
+    {
+     "name": "BENCE JONES PROTEIN - URINE",
+     "method": "Chemical Method",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "BENZODIAZEPINES",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 600,
+     "mrp": 1050
+    },
+    {
+     "name": "BETA 2 GLYCOPROTEIN-1 ANTIBODY IGG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1650
+    },
+    {
+     "name": "BETA 2 GLYCOPROTEIN-1 ANTIBODY IGM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1650
+    },
+    {
+     "name": "BETA 2 MICROGLOBULIN - Serum",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "BETA 2 MICROGLOBULIN - URINE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1550
+    },
+    {
+     "name": "BETA HCG-TITRE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "BETA HUMAN CHORIONIC GONODOTROPIN (SERUM BETA HCG)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 600
+    },
+    {
+     "name": "BETA-HCG - TOTAL QUANTITATIVE (RANDOM URINE)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 600
+    },
+    {
+     "name": "BICARBONATE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 850
+    },
+    {
+     "name": "BILE ACIDS - TOTAL",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 1350,
+     "mrp": 2450
+    },
+    {
+     "name": "BILIRUBIN - DIRECT",
+     "method": "Colorimetric diazomethod",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "BILIRUBIN - INDIRECT",
+     "method": "Colorimetric diazomethod",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "BILIRUBIN - TOTAL, DIRECT & INDIRECT",
+     "method": "Colorimetric diazomethod",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 350
+    },
+    {
+     "name": "BILIRUBIN -TOTAL",
+     "method": "Colorimetric diazomethod",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "BIOPSY-  MEDIUM SPECIMEN  (> 2 CM & UPTO 5 CM)",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 250,
+     "mrp": 550
+    },
+    {
+     "name": "BIOPSY-  MEDIUM SPECIMEN  (> 2 CM & UPTO 5 CM)- A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 300,
+     "mrp": 650
+    },
+    {
+     "name": "BIOPSY-  MEDIUM SPECIMEN  (> 2 CM & UPTO 5 CM)-B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "BIOPSY-  MEDIUM SPECIMEN  (> 2 CM & UPTO 5 CM)- C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "BIOPSY-  MEDIUM SPECIMEN  (> 2 CM & UPTO 5 CM)- D",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "BIOPSY- CANCER SPECIMEN",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 900,
+     "mrp": 1850
+    },
+    {
+     "name": "BIOPSY- CANCER SPECIMEN- A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1200,
+     "mrp": 2450
+    },
+    {
+     "name": "BIOPSY- CANCER SPECIMEN- B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1500,
+     "mrp": 3050
+    },
+    {
+     "name": "BIOPSY- CANCER SPECIMEN- C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 2000,
+     "mrp": 4050
+    },
+    {
+     "name": "BIOPSY- CANCER SPECIMEN- D",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 2500,
+     "mrp": 5050
+    },
+    {
+     "name": "BIOPSY- EXTRA LARGE SPECIMEN",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 2000,
+     "mrp": 4050
+    },
+    {
+     "name": "BIOPSY- EXTRA LARGE SPECIMEN (A)",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 2500,
+     "mrp": 5050
+    },
+    {
+     "name": "BIOPSY- EXTRA LARGE SPECIMEN (B)",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 3000,
+     "mrp": 6050
+    },
+    {
+     "name": "BIOPSY- EXTRA LARGE SPECIMEN (C)-",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 3500,
+     "mrp": 7050
+    },
+    {
+     "name": "BIOPSY- EXTRA LARGE SPECIMEN (D)- 4000",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 4000,
+     "mrp": 8050
+    },
+    {
+     "name": "BIOPSY- KIDNEY",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1150,
+     "mrp": 2350
+    },
+    {
+     "name": "BIOPSY- KIDNEY-A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1200,
+     "mrp": 2450
+    },
+    {
+     "name": "BIOPSY- KIDNEY-B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1500,
+     "mrp": 3050
+    },
+    {
+     "name": "BIOPSY- KIDNEY-C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1800,
+     "mrp": 3650
+    },
+    {
+     "name": "BIOPSY- KIDNEY-D",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 2000,
+     "mrp": 4050
+    },
+    {
+     "name": "BIOPSY- LARGE SPECIMEN (> 5CM)",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 600,
+     "mrp": 1250
+    },
+    {
+     "name": "BIOPSY- LARGE SPECIMEN (> 5CM)-A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 700,
+     "mrp": 1450
+    },
+    {
+     "name": "BIOPSY- LARGE SPECIMEN (> 5CM)-B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "BIOPSY- LARGE SPECIMEN (> 5CM)-C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1000,
+     "mrp": 2050
+    },
+    {
+     "name": "BIOPSY- LARGE SPECIMEN (> 5CM)-D",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1200,
+     "mrp": 2450
+    },
+    {
+     "name": "BIOPSY- SMALL SPECIMEN (< 2 CM)",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 200,
+     "mrp": 450
+    },
+    {
+     "name": "BIOPSY- SMALL SPECIMEN (< 2 CM)-A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 250,
+     "mrp": 550
+    },
+    {
+     "name": "BIOPSY- SMALL SPECIMEN (< 2 CM)-B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 300,
+     "mrp": 650
+    },
+    {
+     "name": "BIOPSY- SMALL SPECIMEN (< 2 CM)-C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 400,
+     "mrp": 950
+    },
+    {
+     "name": "BIOPSY- SMALL SPECIMEN (< 2 CM)-D",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "BIOPSY- UTERUS",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "BIOPSY- UTERUS -A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "BIOPSY- UTERUS -B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 650,
+     "mrp": 1450
+    },
+    {
+     "name": "BIOPSY- UTERUS -C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "BIOPSY- UTERUS -D",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1000,
+     "mrp": 2050
+    },
+    {
+     "name": "BIOPSY-BONE",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 350,
+     "mrp": 750
+    },
+    {
+     "name": "BIOPSY-BONE- A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "BIOPSY-BONE- B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 650,
+     "mrp": 1450
+    },
+    {
+     "name": "BIOPSY-BONE- C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "BIOPSY-BONE- D",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 1000,
+     "mrp": 2050
+    },
+    {
+     "name": "BLOCKS (SINGLE BLOCK)",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 200,
+     "mrp": 500
+    },
+    {
+     "name": "BLOCKS RETURN (2 to 5)- A",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 250,
+     "mrp": 550
+    },
+    {
+     "name": "BLOCKS RETURN (5 to 10)- B",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "BLOCKS RETURN ( (MORE THAN 10)- C",
+     "method": "HPE",
+     "reported_on": "6th Working Day",
+     "price": 600,
+     "mrp": 1250
+    },
+    {
+     "name": "BLOCKS\/SLIDE FOR SECOND OPINION",
+     "method": "HPE",
+     "reported_on": "3rd Working Day",
+     "price": 350,
+     "mrp": 800
+    },
+    {
+     "name": "BK POLIOMA VIRUS DNA BY REAL TIME PCR (PLASMA)",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 3100,
+     "mrp": 5250
+    },
+    {
+     "name": "BLOOD (PNH) MARKER : CD 59",
+     "method": "Multiplesx RT PCR",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "BLOOD GLUCOSE - URINE",
+     "method": "Reagent strip",
+     "reported_on": "Same Day",
+     "price": 35,
+     "mrp": 100
+    },
+    {
+     "name": "BLOOD GLUCOSE FASTING",
+     "method": "Hexokinase",
+     "reported_on": "Same Day",
+     "price": 35,
+     "mrp": 100
+    },
+    {
+     "name": "BLOOD GLUCOSE POST LUNCH - URINE",
+     "method": "Reagent strip",
+     "reported_on": "Same Day",
+     "price": 35,
+     "mrp": 100
+    },
+    {
+     "name": "BLOOD GLUCOSE PP",
+     "method": "Hexokinase",
+     "reported_on": "Same Day",
+     "price": 35,
+     "mrp": 100
+    },
+    {
+     "name": "BLOOD GLUCOSE RANDOM",
+     "method": "Hexokinase",
+     "reported_on": "Same Day",
+     "price": 35,
+     "mrp": 100
+    },
+    {
+     "name": "BLOOD GROUP (ABO & Rh TYPING)",
+     "method": "Latex Agglutination",
+     "reported_on": "Same Day",
+     "price": 45,
+     "mrp": 100
+    },
+    {
+     "name": "BLOOD PICTURE - PERIPHERAL SMEAR EXAMINATION (P\/S)",
+     "method": "Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 300
+    },
+    {
+     "name": "BLOOD SUGAR 1,h (o-gtt, 1,h)",
+     "method": "Hexokinase",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "BLOOD SUGAR 2,h (o-gtt, 2,h)",
+     "method": "Hexokinase",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "BLOOD SUGAR 3,h (o-gtt, 3,h)",
+     "method": "Hexokinase",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "BLOOD UREA NITROGEN (BUN)",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "BONE MARROW SMEAR MICROSCOPY EXAMINATION",
+     "method": "Light Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 175,
+     "mrp": 450
+    },
+    {
+     "name": "BRUCELLA IgG & IgM AGGLUTINATION TEST - INFECTIOUS DISEASES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1500,
+     "mrp": 3250
+    },
+    {
+     "name": "BRUCELLA IGG ANTIBODIES - INFECTIOUS DISEASES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "BRUCELLA IGM ANTIBODIES - INFECTIOUS DISEASES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "BRUCELLA, DNA PCR - QUALITATIVE",
+     "method": "Multiplesx RT PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2050,
+     "mrp": 4050
+    },
+    {
+     "name": "BUCCAL SMEAR FOR BARR BODIES (SEX CHROMATIN)",
+     "method": "Microscopy",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 650
+    },
+    {
+     "name": "BUCCAL SMEAR FOR CYTOLOGY",
+     "method": "Light Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 200,
+     "mrp": 450
+    },
+    {
+     "name": "BUN\/CREATININE RATIO",
+     "method": "Calculated\nSpectro- photometry Jaffe Kinetic",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "C1 ESTERASE INHIBITOR, SERUM BY NEPHELOMETRY",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2850,
+     "mrp": 4150
+    },
+    {
+     "name": "C3 COMPLEMENT COMPONENT",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "C4 COMPLEMENT COMPONENT",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "CA 72.4 (GASTRIC CANCER) - CANCER MARKERS",
+     "method": "Electrochemilu minescence\/ELI SA",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1350,
+     "mrp": 2550
+    },
+    {
+     "name": "CA125",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 850
+    },
+    {
+     "name": "CA15.3 (BREAST CANCER) - CANCER MARKERS",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 575,
+     "mrp": 1450
+    },
+    {
+     "name": "CA19.9 (PANCREATIC CANCER) - CANCER MARKERS",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)\/ELISA",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 575,
+     "mrp": 1450
+    },
+    {
+     "name": "CADMIUM",
+     "method": "Spectrophotom etry",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "CALCITONIN",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)\/ELISA",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2250
+    },
+    {
+     "name": "CALCIUM",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "CALCIUM 24 Hrs. URINE",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 250
+    },
+    {
+     "name": "CALCIUM IONIZED",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CALCIUM URINE SPOT",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "CALCIUM\/CREATNINE RATIO SPOT URINE",
+     "method": "Chemiluminisc ence",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "CARBAMAZEPINE (TEGRETOL\/MAZETOL\/CARBATOL)",
+     "method": "Immunoturbo metry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 375,
+     "mrp": 950
+    },
+    {
+     "name": "CATECHOLAMINES - 24 HRS. Urine",
+     "method": "ELISA\/HPLC",
+     "reported_on": "3rd Working Day",
+     "price": 2850,
+     "mrp": 4850
+    },
+    {
+     "name": "CATECHOLAMINES - PLASMA",
+     "method": "ELISA\/HPLC",
+     "reported_on": "3rd Working Day",
+     "price": 2850,
+     "mrp": 4850
+    },
+    {
+     "name": "CD - 57",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "CD 1A (PAN T - CELL MARKER)",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "CD3 ABSOLUTE COUNT",
+     "method": "Flow Cytometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1650
+    },
+    {
+     "name": "CD3\/CD4\/CD8",
+     "method": "Flow Cytometry-BD FACSC Calibur",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 950,
+     "mrp": 1850
+    },
+    {
+     "name": "CD4 ABSOLUTE COUNT",
+     "method": "Flow Cytometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1650
+    },
+    {
+     "name": "CD4 ABSOLUTE COUNT(CD4)",
+     "method": "Flow Cytometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1500
+    },
+    {
+     "name": "CEA (CARCINO EMBRYONIC ANTIGEN) - CANCER MARKERS",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 850
+    },
+    {
+     "name": "CENTROMERE ANTIBODY IGG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "CERULOPLASMIN",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 575,
+     "mrp": 1200
+    },
+    {
+     "name": "CHIKUNGUNIYA - PCR - QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "CHIKUNGUNYA IGM ANTIBODY - INFECTIOUS DISEASES",
+     "method": "Lateral Flow Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 280,
+     "mrp": 700
+    },
+    {
+     "name": "CHIKUNGUNYA IGM ANTIBODY - INFECTIOUS DISEASES by ELISA",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 300,
+     "mrp": 800
+    },
+    {
+     "name": "CHLAMYDIA IGA ANTIBODIES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1350,
+     "mrp": 2450
+    },
+    {
+     "name": "CHLAMYDIA IGM ANTIBODIES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1350,
+     "mrp": 2450
+    },
+    {
+     "name": "CHLAMYDIA, IgG ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1350,
+     "mrp": 2070
+    },
+    {
+     "name": "CHLORIDE",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 180
+    },
+    {
+     "name": "CHLORIDE - FLUID",
+     "method": "ICT",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "CHLORIDE - URINE",
+     "method": "ISE DIRECT",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "CHOLESTEROL - HDL",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 90,
+     "mrp": 200
+    },
+    {
+     "name": "CHOLESTEROL -TOTAL",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "CHOLESTEROL\/HDL RATIO",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 350
+    },
+    {
+     "name": "CHOLESTEROL-LDL",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 90,
+     "mrp": 200
+    },
+    {
+     "name": "CHOLESTEROL-LDL\/ HDL RATIO",
+     "method": "Calculated",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 350
+    },
+    {
+     "name": "CHOLESTEROL-NON HDL",
+     "method": "SPECTROPHOT OMETRY",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 350
+    },
+    {
+     "name": "CHOLESTROL - URINE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "CHOLINESTERASE",
+     "method": "Spectrophotom etry",
+     "reported_on": "3rd Working Day",
+     "price": 300,
+     "mrp": 650
+    },
+    {
+     "name": "CHROMIUM",
+     "method": "ICPMS\/AAS",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "CHROMIUM - URINE",
+     "method": "ICPMS\/AAS",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "CHROMOGRANIN A",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "2nd Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "CHROMOSOME ANALYSIS - BLOOD",
+     "method": "Karyotyping",
+     "reported_on": "12th Working Day",
+     "price": 1800,
+     "mrp": 2850
+    },
+    {
+     "name": "CHROMOSOME ANALYSIS - BONE MARROW",
+     "method": "Karyotyping",
+     "reported_on": "12th Working Day",
+     "price": 2050,
+     "mrp": 3250
+    },
+    {
+     "name": "CHROMOSOME ANALYSIS BY AMNOTIC FLUID",
+     "method": "Karyotyping",
+     "reported_on": "12th Working Day",
+     "price": 2050,
+     "mrp": 3250
+    },
+    {
+     "name": "CHROMOSOME ANALYSIS, PRODUCTS OF CONCEPTION(POC) BY NGS",
+     "method": "Next Generation Sequencing",
+     "reported_on": "21th Working Day",
+     "price": 4850,
+     "mrp": 7250
+    },
+    {
+     "name": "CIRCULATING IMMUNOCOMPLEX (CIC)-\nIgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "3rd Working Day",
+     "price": 1150,
+     "mrp": 2450
+    },
+    {
+     "name": "CITRATE 24 Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 650,
+     "mrp": 1250
+    },
+    {
+     "name": "CK - MM",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 5850,
+     "mrp": 8550
+    },
+    {
+     "name": "CLL SEGREGATION MARKER : CD 23",
+     "method": "Flow Cytometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "CLONAL RESTRICTION \/ B - CELL MATURITY MARKER : KAPPA LIGHT CHAIN",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "CLONAL RESTRICTION \/ B - CELL MATURITY MARKER : LAMBDA LIGHT CHAIN",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "CLONAL RESTRICTION \/ B - CELL MATURITY MARKER : SURFACE IGG",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "CLONAL RESTRICTION \/ B - CELL MATURITY MARKER : SURFACE IGM",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "CLONAL RESTRICTION \/ PRE B - CELL ALL PROGNOSTIC MARKER : CYTOPLASMIC IGM",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "COELIAC FUSION TTG+DGP",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "COMPLETE BLOOD COUNT (CBC)",
+     "method": "Coulter Principle (Impedance)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 300
+    },
+    {
+     "name": "COMPLETE BLOOD COUNT (CBC) WITH\nP\/S",
+     "method": "Coulter Principle (Impedance)",
+     "reported_on": "Same Day",
+     "price": 130,
+     "mrp": 350
+    },
+    {
+     "name": "COOMB S TEST DIRECT",
+     "method": "Gel Microtyping",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 550
+    },
+    {
+     "name": "COOMB S TEST INDIRECT",
+     "method": "Gel Microtyping",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 550
+    },
+    {
+     "name": "COPPER - 24Hrs Urine",
+     "method": "GraphiteFurnac eAtomicAbsorp tionSpectromet\nry(GFAAS)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1450
+    },
+    {
+     "name": "COPPER - SERUM",
+     "method": "GraphiteFurnac eAtomicAbsorp tionSpectromet\nry(GFAAS)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1450
+    },
+    {
+     "name": "CORTISOL  (7 TO 9 AM)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 250,
+     "mrp": 600
+    },
+    {
+     "name": "CORTISOL - 24 Hrs. Urine",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 650
+    },
+    {
+     "name": "CORTISOL - URINE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 650
+    },
+    {
+     "name": "CORTISOL ( 3 TO 5 PM)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 250,
+     "mrp": 600
+    },
+    {
+     "name": "CORTISOL- SPOT URINE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 250,
+     "mrp": 600
+    },
+    {
+     "name": "CORTISOL\/CREATININE RATIO - 24Hrs\nUrine",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 750
+    },
+    {
+     "name": "C-PEPTIDE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 1250
+    },
+    {
+     "name": "CREATINE KINASE MB (CK-MB)",
+     "method": "Chemiluminesc enceMicroparti cle\nImmunoassay(",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "CREATININE",
+     "method": "Jaffe Kinetic\/Spectro photometry",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "CREATININE - 24Hr. Urine",
+     "method": "Modified jaffe Kinetic\/Spectro photometry",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "CREATININE KINASE (CPK)",
+     "method": "IFCC, UV\nKinetic\/Spectro photometry",
+     "reported_on": "Same Day",
+     "price": 130,
+     "mrp": 350
+    },
+    {
+     "name": "CREATININE URINE SPOT",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "CREATNINE CLEARANCE TEST",
+     "method": "Modified jaffe Kinetic\/Spectro photometry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 450
+    },
+    {
+     "name": "CRP QUALITATIVE",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 450
+    },
+    {
+     "name": "CRP QUANTITATIVE",
+     "method": "Turbidimetric Immunoassay",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CRYOGLOBULINS SCREENING(QUALITATIVE)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)\/Precipita",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "CRYPTOCOCCUS ANTIGEN",
+     "method": "Agglutination",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "CSF FLUID CELL COUNT",
+     "method": "Microscopy",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "CULTURE -  BODY FLUID (BD BACTEC)",
+     "method": "MGIT",
+     "reported_on": "5th Working Day",
+     "price": 490,
+     "mrp": 800
+    },
+    {
+     "name": "CULTURE -  THROAT SWAB (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 690
+    },
+    {
+     "name": "CULTURE -  URINE (AEROBIC 12 DRUGS)",
+     "method": "Sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "CULTURE - AEROBIC (OT SWAB)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - AEROBIC (PUS)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - BLOOD (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "7th Working Day",
+     "price": 400,
+     "mrp": 750
+    },
+    {
+     "name": "CULTURE - BLOOD (ANAEROBIC)",
+     "method": "Conventional Anaerobic Culture",
+     "reported_on": "7th Working Day",
+     "price": 550,
+     "mrp": 850
+    },
+    {
+     "name": "CULTURE - BLOOD  (BD BACTEC)",
+     "method": "MGIT",
+     "reported_on": "5th Working Day",
+     "price": 490,
+     "mrp": 800
+    },
+    {
+     "name": "CULTURE - BODY FLUIDS (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - CERVICAL SWAB (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - CSF (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - EAR SWAB (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE-  EYE SWAB (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - MISCELLANEOUS (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - NASAL SWAB (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - SEMEN (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - SPUTUM (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - STOOL (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 690
+    },
+    {
+     "name": "CULTURE - SWAB (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 230
+    },
+    {
+     "name": "CULTURE - SWAB (ANAEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "7th Working Day",
+     "price": 550,
+     "mrp": 850
+    },
+    {
+     "name": "CULTURE - URINE (AEROBIC 22 DRUGS)",
+     "method": "Sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 250,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE - VAGINAL SWAB (AEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CULTURE- PUS\/BODY FLUIDS(ANAREOBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "7th Working Day",
+     "price": 550,
+     "mrp": 850
+    },
+    {
+     "name": "CULTURE -RO WATER",
+     "method": "Conventional culture",
+     "reported_on": "3rd Working Day",
+     "price": 450,
+     "mrp": 850
+    },
+    {
+     "name": "CULTURE -SPUTUM (ANAEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "7th Working Day",
+     "price": 550,
+     "mrp": 850
+    },
+    {
+     "name": "CULTURE- STOOL (ANAEROBIC)",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "7th Working Day",
+     "price": 550,
+     "mrp": 850
+    },
+    {
+     "name": "CULTURE URINE-QUALITATIVE",
+     "method": "Conventional culture and sensitivity",
+     "reported_on": "3rd Working Day",
+     "price": 115,
+     "mrp": 350
+    },
+    {
+     "name": "CYCLOSPORINE CO LEVEL",
+     "method": "Chemiluminesc enceMicroparti cle\nImmunoassay(",
+     "reported_on": "2nd Working Day",
+     "price": 2250,
+     "mrp": 3250
+    },
+    {
+     "name": "CYFRA 21.1 (LUNG CANCER) - CANCER MARKERS",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)\/ELISA",
+     "reported_on": "2nd Working Day",
+     "price": 2150,
+     "mrp": 4550
+    },
+    {
+     "name": "CYSTATIN C",
+     "method": "Spectrophotom etry",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "CYTOLOGICAL EVALUATION- MALIGNANT CELLS",
+     "method": "Microscopy",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CYTOLOGY -FLUIDS",
+     "method": "Microscopy",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "CYTOLOGY -PAP",
+     "method": "Light Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 200,
+     "mrp": 550
+    },
+    {
+     "name": "CYTOMEGALOVIRUS DNA PCR - QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "CYTOMEGALOVIRUS DNA PCR QUANTITATIVE (VIRAL LOAD)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2850,
+     "mrp": 4850
+    },
+    {
+     "name": "CYTOMEGALOVIRUS IGG - CSF",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 750
+    },
+    {
+     "name": "CYTOMEGALOVIRUS IGM - CSF",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 750
+    },
+    {
+     "name": "CYTOMEGALOVIRUS, IGG ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "CYTOMEGALOVIRUS, IGM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "D DIMER",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 650,
+     "mrp": 1500
+    },
+    {
+     "name": "D-DIMER",
+     "method": "Immunochrom atography",
+     "reported_on": "Same Day",
+     "price": 525,
+     "mrp": 1250
+    },
+    {
+     "name": "DEHYDROEPIANDROSTERONE (DHEA)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1250,
+     "mrp": 2850
+    },
+    {
+     "name": "DEHYDROEPIANDROSTERONE SULPHATE(DHEA-S)",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 1050
+    },
+    {
+     "name": "DENGUE - RNA PCR - QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "DENGUE IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 950
+    },
+    {
+     "name": "DENGUE IgG & IgM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 700,
+     "mrp": 1650
+    },
+    {
+     "name": "DENGUE IgG (Qualitative)",
+     "method": "Immuno chromatograph y",
+     "reported_on": "Same Day",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "DENGUE IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 950
+    },
+    {
+     "name": "DENGUE IgM (Qualitative)",
+     "method": "Immuno chromatograph y",
+     "reported_on": "Same Day",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "DENGUE NS1 ANTIGEN",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 950
+    },
+    {
+     "name": "DENGUE NS1(Qualitative)",
+     "method": "Immunochrom atography",
+     "reported_on": "Same Day",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "DIFFERENTIAL LEUCOCYTE COUNT (DLC)",
+     "method": "Microscopy\/\nVCS\nTechnology Microscopy",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "DIGOXIN Level",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)\/Immuno",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 950
+    },
+    {
+     "name": "DNA PLOIDY & S PHASE - LEUKEMIA",
+     "method": "Real Time PCR\/Flow Cytometry",
+     "reported_on": "3rd Working Day",
+     "price": 1850,
+     "mrp": 2850
+    },
+    {
+     "name": "DNA PLOIDY & S PHASE - SOLID TUMORS",
+     "method": "HPE",
+     "price": 1850,
+     "mrp": 2850
+    },
+    {
+     "name": "DRUG OF ABUSE (QUALITATIVE)- 10 DRUGS",
+     "method": "Double\nIndicators Test Refractometric Lateral Flow",
+     "reported_on": "Same Day",
+     "price": 2850,
+     "mrp": 4850
+    },
+    {
+     "name": "DRUG OF ABUSE (QUALITATIVE)- 6 DRUGS",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 850,
+     "mrp": 1800
+    },
+    {
+     "name": "ECHINOCOCCUS (HYDATIC CYST) DETECTION",
+     "method": "Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "ECHINOCOCCUS ANTIBODY, IGG (HYDATID SEROLOGY)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1850
+    },
+    {
+     "name": "EGFR (ESTIMATED GLOMERULAR FILTRATION RATE)",
+     "method": "Spectrophotom\netry Spectro- photometry Spectrophotom",
+     "reported_on": "Same Day",
+     "price": 250,
+     "mrp": 600
+    },
+    {
+     "name": "ELECTROLYTE PLUS PROFILE",
+     "method": "Ion Selective\nElectrode Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 950
+    },
+    {
+     "name": "ENDOMYSIAL ANTIBODY IGA IFA",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "ENTAMOEBA HISTOLYTICA (AMEBIASIS), ANTIBODY, IGG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1850
+    },
+    {
+     "name": "ENTAMOEBA HISTOLYTICA DETECTION",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 450,
+     "mrp": 1050
+    },
+    {
+     "name": "EPSTEIN BAR VIRUS(EBV) DNA QUALITATIVE TEST BY REAL TIME PCR",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "EPSTEIN BARR VIRUS IGG (VIRAL CAPSID AG) - INFECTION",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1150,
+     "mrp": 2250
+    },
+    {
+     "name": "EPSTEIN BARR VIRUS IGM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1150,
+     "mrp": 2250
+    },
+    {
+     "name": "ERYTHROCYTE COUNT (RBC COUNT)",
+     "method": "Cell Counter",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "ERYTHROCYTE SEDIMENTATION RATE (ESR)",
+     "method": "Westergren\nFlocculation Turbidimetric Immunoassay",
+     "reported_on": "Same Day",
+     "price": 35,
+     "mrp": 100
+    },
+    {
+     "name": "ERYTHROID CELL MARKER : CD 71",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "ERYTHROID CELL MARKER : GLYCOPHORIN A",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "ERYTHROPOIETIN (EPO)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 900,
+     "mrp": 1950
+    },
+    {
+     "name": "ESTRADIOL (E2)",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 600
+    },
+    {
+     "name": "ESTRIOL, UNCONJUGATED (E3)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1250
+    },
+    {
+     "name": "FACTOR II (PROTHROMBIN) MUTATION DETECTION",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "FACTOR V",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "2nd Working Day",
+     "price": 1650,
+     "mrp": 2850
+    },
+    {
+     "name": "FACTOR V LEIDEN MUTATION - HAEMATOLOGY (COAGULATION)",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "FACTOR VII",
+     "method": "Photo -Optical",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2450,
+     "mrp": 3550
+    },
+    {
+     "name": "FACTOR X",
+     "method": "Electromechani cal Clot Detection",
+     "reported_on": "2nd Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "FACTOR XI, FUNCTIONAL",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "2nd Working Day",
+     "price": 1650,
+     "mrp": 2850
+    },
+    {
+     "name": "FACTOR XIII",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "2nd Working Day",
+     "price": 1250,
+     "mrp": 2450
+    },
+    {
+     "name": "FACTOR-IX (Haemophilia B)",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "2nd Working Day",
+     "price": 1250,
+     "mrp": 2450
+    },
+    {
+     "name": "FACTOR-VIII (Haemophilia A)",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "2nd Working Day",
+     "price": 1250,
+     "mrp": 2450
+    },
+    {
+     "name": "FERRITIN",
+     "method": "Chemiluminesc enceMicroparti cle\nImmunoassay(",
+     "reported_on": "Same Day",
+     "price": 300,
+     "mrp": 600
+    },
+    {
+     "name": "FIBRINOGEN",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 600,
+     "mrp": 1250
+    },
+    {
+     "name": "FIBRINOGEN DEGRADATION PRODUCT (FDP)",
+     "method": "Latex Agglutination",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 600,
+     "mrp": 1550
+    },
+    {
+     "name": "FIP1L1 - PDGFRA GENE REARRANGEMENT",
+     "method": "Real Time PCR",
+     "reported_on": "5th Working Day",
+     "price": 4850,
+     "mrp": 7250
+    },
+    {
+     "name": "FLUID ANALYSIS",
+     "method": "Peroxidase\nReaction Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "FLUID ANALYSIS - CSF",
+     "method": "Spectrophotom etry Microscopy",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "FLUID BIOCHEMISTRY",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "FLUID CELL COUNT",
+     "method": "Coulter\nPrinciple (Impedance) Microscopy\/",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "FLUID PROTEINS",
+     "method": "Biuret Method",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "FLUORESCENT TREPONEMAL ANTIBODY ABSORPTION (FTA-AB)",
+     "method": "ELISA\/IFA",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1550,
+     "mrp": 3450
+    },
+    {
+     "name": "FNAC (FINE NEEDLE ASPIRATION) - CYTOLOGY",
+     "method": "Microscopy of\nPapanicoloau\/ MGG stained smears",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 225,
+     "mrp": 575
+    },
+    {
+     "name": "FOLIC ACID",
+     "method": "Chemiluminesc enceMicroparti cle\nImmunoassay(",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "FOLLICULAR LYMPHOMA MARKER : BCL - 2",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "FOOD INTOLERANCE TEST",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 9500,
+     "mrp": 15500
+    },
+    {
+     "name": "FREE BETA HCG",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 800
+    },
+    {
+     "name": "FREE LIGHT CHAIN ASSAY",
+     "method": "Nephelometry",
+     "reported_on": "3rd Working Day",
+     "price": 3350,
+     "mrp": 5850
+    },
+    {
+     "name": "FREE PSA\/TOTAL PSA RATIO",
+     "method": "Calculeted\/Che\nmiluminescenc eImmunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1550
+    },
+    {
+     "name": "FRUCTOSAMINE",
+     "method": "Spectrophoton etry",
+     "reported_on": "3rd Working Day",
+     "price": 650,
+     "mrp": 1250
+    },
+    {
+     "name": "FSH (FOLLICLE STIMULATING HORMONE)",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 450
+    },
+    {
+     "name": "FUNGAL CULTURE",
+     "method": "Conventional fungal culture and sensitivity",
+     "reported_on": "14th Working Day",
+     "price": 490,
+     "mrp": 850
+    },
+    {
+     "name": "FUNGAL STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "FUNGAL STAIN",
+     "method": "Light Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "GALACTOMANNAN(ASPERGILLUS ANTIGEN)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1250,
+     "mrp": 2550
+    },
+    {
+     "name": "GAMMA GLUTAMYL TRANSFERASE (GGT)",
+     "method": "L-Gamma-\nglutamyl-3- carboxy-4- nitroanilide",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "GASTRIN",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1150,
+     "mrp": 2250
+    },
+    {
+     "name": "GIEMSA STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "GIEMSA STAIN",
+     "method": "Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "GLIADIN ANTIBODY IGA",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "GLIADIN ANTIBODY IGG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "GLOBULIN",
+     "method": "Calculated Value",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "GLOMERULAR BASEMENT MEMBRANE ANTIBODY IGG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1150,
+     "mrp": 2250
+    },
+    {
+     "name": "GLUCOSE 6 PHOSPHATE DEHYDROGENASE (G6PD QUANTITATIVE)",
+     "method": "Spectrophoton etry",
+     "reported_on": "Same Day",
+     "price": 375,
+     "mrp": 950
+    },
+    {
+     "name": "GLUCOSE CHALLENGE TEST (GCT)",
+     "method": "Hexokinase",
+     "reported_on": "Same Day",
+     "price": 35,
+     "mrp": 100
+    },
+    {
+     "name": "GLUTAMIC ACID DECORBYLASE (GAD- 65)",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 4050,
+     "mrp": 7800
+    },
+    {
+     "name": "GLYCOPHORIN A",
+     "method": "Flow Cytometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1600,
+     "mrp": 2550
+    },
+    {
+     "name": "GRAMS STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "GRAMS STAIN",
+     "method": "Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "GROWTH HORMONE (GH)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "HAEMOCHROMATOSIS \/ HFE -   (2 MUTATIONS)",
+     "method": "Real Time PCR",
+     "reported_on": "5th Working Day",
+     "price": 3450,
+     "mrp": 5850
+    },
+    {
+     "name": "HAEMOGLOBIN - URINE",
+     "method": "Strip test",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 175,
+     "mrp": 450
+    },
+    {
+     "name": "HAEMOGLOBIN ELECTROPHORESIS (HPLC)",
+     "method": "Sulpholyser\nHaemoglobin Detection Method Cell",
+     "reported_on": "Same Day",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "HAEMOGRAM (CBC+ESR)",
+     "method": "Sulpholyser\nHaemoglobin Detection Method Cell",
+     "reported_on": "Same Day",
+     "price": 130,
+     "mrp": 350
+    },
+    {
+     "name": "HAIRY CELL \/ NHL DIFFERENTIATION MARKER : CD 25",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "HAIRY CELL MARKER : CD 103",
+     "method": "Flow Cytometry-BD FACSC Calibur",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "HANGING DROP FOR V.CHOLERAE",
+     "method": "Hanging Drop & Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "HAPTOGLOBIN",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "HBA1C",
+     "method": "HPLC",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "HbsAg (Australian Antigen) - Qualitative",
+     "method": "Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 450
+    },
+    {
+     "name": "HbsAG (AUSTRALIAN ANTIGEN) by CLIA",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "HCV Antibody - Qualiative",
+     "method": "Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 300,
+     "mrp": 700
+    },
+    {
+     "name": "HDV RNA QUANTITATIVE - VIRAL LOAD",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 4850,
+     "mrp": 7000
+    },
+    {
+     "name": "HELICOBACTER PYLORI ANTIGEN",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 700,
+     "mrp": 1550
+    },
+    {
+     "name": "HELICOBACTER PYLORI IGA ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1850
+    },
+    {
+     "name": "HELICOBACTER PYLORI IGG ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1850
+    },
+    {
+     "name": "HELICOBACTER PYLORI IGM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1850
+    },
+    {
+     "name": "HEMOGLOBIN (HB)",
+     "method": "Sulpholyser\nHaemoglobin Detection Method Cell",
+     "reported_on": "Same Day",
+     "price": 50,
+     "mrp": 100
+    },
+    {
+     "name": "HEMOSIDERIN - URINE",
+     "method": "Pearls Prussian Blue",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 650
+    },
+    {
+     "name": "HEPATITIS A VIRUS (HAV IgG)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "HEPATITIS A VIRUS (HAV IgM)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "HEPATITIS B ENVELOPE ANTIBODY (Anti HBe)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "HEPATITIS B ENVELOPE ANTIGEN (HBeAg)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "HEPATITIS B SURFACE ANTIBODY TOTAL\n(Anti Hbs)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "HEPATITIS B SURFACE ANTIGEN\n(Australian Antigen) - HBsAg",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 500
+    },
+    {
+     "name": "HEPATITIS B VIRUS - VIRAL LOAD (QUANTITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 2400,
+     "mrp": 5500
+    },
+    {
+     "name": "HEPATITIS B VIRUS DNA (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 1450,
+     "mrp": 2850
+    },
+    {
+     "name": "HEPATITIS C ANTIBODY (HCV Antibody)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 300,
+     "mrp": 850
+    },
+    {
+     "name": "HEPATITIS C VIRUS - GENOTYPING",
+     "method": "Real Time PCR",
+     "reported_on": "5th Working Day",
+     "price": 5500,
+     "mrp": 8500
+    },
+    {
+     "name": "HEPATITIS C VIRUS - VIRAL LOAD (QUANTITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 2400,
+     "mrp": 5500
+    },
+    {
+     "name": "HEPATITIS C VIRUS (HCV Antibody)-IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 600,
+     "mrp": 1500
+    },
+    {
+     "name": "HEPATITIS C VIRUS (HCV Antibody)-IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 600,
+     "mrp": 1500
+    },
+    {
+     "name": "HEPATITIS C VIRUS-QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 1450,
+     "mrp": 2850
+    },
+    {
+     "name": "HEPATITIS CORE ANTIBODY IgM (Anti HBc-IgM)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "HEPATITIS CORE ANTIBODY TOTAL\n(HBcAb-Total)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "HEPATITIS DELTA VIRUS - IgM (HDV IgM)ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "5th Working Day",
+     "price": 2050,
+     "mrp": 3050
+    },
+    {
+     "name": "HEPATITIS E VIRUS - IGG (HEV IGG)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 600,
+     "mrp": 1500
+    },
+    {
+     "name": "HEPATITIS E VIRUS - IGM (HEV IGM)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 600,
+     "mrp": 1500
+    },
+    {
+     "name": "HERPES SIMPLEX VIRUS 1 & 2 IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 1050
+    },
+    {
+     "name": "HERPES SIMPLEX VIRUS 1 & 2 IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 1050
+    },
+    {
+     "name": "HERPES SIMPLEX VIRUS 1 IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "HERPES SIMPLEX VIRUS 1 IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "HERPES SIMPLEX VIRUS 2 IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "HERPES SIMPLEX VIRUS 2 IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "HERPES SIMPLEX VIRUS- DNA PCR",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "HEV RNA QUANTITATIVE ASSSAY",
+     "method": "Taqman Real Time PCR assay",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "HIGH SENSITIVE CRP (HSCRP)",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "HISTONE ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1950,
+     "mrp": 2850
+    },
+    {
+     "name": "HIV - QUANTITATIVE (VIRAL LOAD)",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 2400,
+     "mrp": 3850
+    },
+    {
+     "name": "HIV 1 & 2 ANTIBODY - Qualitative",
+     "method": "Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 450
+    },
+    {
+     "name": "HIV 1 & 2 ANTIBODY by ELISA",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 500
+    },
+    {
+     "name": "HIV 1 WESTERN BLOT",
+     "method": "Blotting",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1350,
+     "mrp": 2850
+    },
+    {
+     "name": "HIV 1,2 AND 3",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "HIV AG & AB - 4TH GENERATION",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 800
+    },
+    {
+     "name": "HIV P24 ANTIGEN",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 700,
+     "mrp": 1450
+    },
+    {
+     "name": "HIV-DNA PCR - QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 2050,
+     "mrp": 3050
+    },
+    {
+     "name": "HIV-I DRUG RESISTANCE ASSAY (PI)",
+     "method": "Real Time PCR\/Gene Sequencing",
+     "reported_on": "22nd Working Day",
+     "price": 5150,
+     "mrp": 8500
+    },
+    {
+     "name": "HIV-I DRUG RESISTANCE ASSAY (RT)",
+     "method": "Real Time PCR\/Gene Sequencing",
+     "reported_on": "22nd Working Day",
+     "price": 10500,
+     "mrp": 15500
+    },
+    {
+     "name": "HIV-RNA PCR - QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 1850,
+     "mrp": 2850
+    },
+    {
+     "name": "HLA - DR4 (DRB1*04)",
+     "method": "Flow Cytometry\/PCR",
+     "reported_on": "2nd Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "HLA B-27",
+     "method": "Flow Cytometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 950,
+     "mrp": 1850
+    },
+    {
+     "name": "HLA B-27 - PCR",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 1600,
+     "mrp": 3050
+    },
+    {
+     "name": "HOMA -IR",
+     "method": "Hexokinase, Electrochemilu minisence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "HOMOCYSTEINE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 525,
+     "mrp": 1050
+    },
+    {
+     "name": "HUMAN EPIDIDYMIS PROTEIN 4 (HE-4)",
+     "method": "Chemiflex",
+     "reported_on": "3rd Working Day",
+     "price": 1550,
+     "mrp": 2850
+    },
+    {
+     "name": "HUMAN PAPILOMA VIRUS (16&18) DNA BY REAL TIME PCR",
+     "method": "Real Time PCR",
+     "reported_on": "2nd Working Day",
+     "price": 1150,
+     "mrp": 2050
+    },
+    {
+     "name": "IHC-  BETA HUMAN CHORIONIC GONADOTROPIN (BHCG)",
+     "method": "IHC",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CD99",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CHROMOGRANIN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 10 (CD10)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 117 (CD117)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 15 (CD15)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 19 (CD19)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 20 (CD20)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 21 (CD21)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 23 (CD23)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 3 (CD3)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 30 (CD30)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 43(CD43)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 45(CD45)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 5(CD5)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CLUSTER OF DIFFERENTIATION 68(CD68)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CYTOKERATIN 5\/6",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - CYTOKERATIN 7",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - ER\/PR",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1750,
+     "mrp": 2550
+    },
+    {
+     "name": "IHC - GROSS CYSTIC DISEASE FLUID PROTEIN (GCDFP)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - HIGH MOLECULAR WEIGHT- KINIOGEN (HMW-K)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - HUMAN MELANOMA BLACK 45 (HMB 45)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - INHIBIN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - KI 67-MARKER",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - LOW MOLECULAR WEIGHT- KININOGEN (LMW-K)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - MULTIPLE MYELOMA ONCOGENE 1 (MUM1)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - MYELOPEROXIDASE(MPO)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - NEURON SPECIFIC ENOLASE",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - P - 63",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - PLACENTAL ALKALINE PHOSPHATASE (PLAP)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - S100",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - SMOOTH MUSCLE ACTIN (SMA)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - SYNAPTOPHYSIN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - TERMINAL  DEOXYNUCLEOTIDYL TRANSFERASE (TdT)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - THYROGLOBULIN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - THYROID TRANSCRIPTION FACTOR",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC - VIMENTIN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC- CARCINOEMBRYONIC ANTIGEN (CEA)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC -CK 20",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC -DOG1",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC -ESTROGEN RECEPTOR \/ PROGESTERONE RECEPTOR (ER",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC- P53",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC- PANCYTOKERATIN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC1",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-ANAPLASTIC LYMPHOMA KINASE 1(AKL1)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-B-CELL LEUKEMIA\/LYMPHOMA 6 (BCL6)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-CD34",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-CYCLIN-D",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-CYTOKERATIN 19",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-CYTOKERATIN 20",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-DESMIN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-EPITHELIAL MEMBRANE ANTIGEN",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IHC-GLIAL FIBRILLARY ACIDIC PROTEIN (GFAP)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IMMUNOFIXATION ELECTROPHORESIS - URINE",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "3rd Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "IMMUNOFIXATION ELECTROPHORESIS- SERUM",
+     "method": "Agarose Gel Electrophoresis",
+     "reported_on": "3rd Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "IMMUNOGLOBULIN A (IgA)",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "IMMUNOGLOBULIN G-4",
+     "method": "NEPHLOMETRY",
+     "reported_on": "2nd Working Day",
+     "price": 1750,
+     "mrp": 2850
+    },
+    {
+     "name": "IMMUNOGLOBULIN G4 (IgG4)",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 3150,
+     "mrp": 5250
+    },
+    {
+     "name": "IMMUNOGLOBULIN IgA,IgG,IgM",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 650,
+     "mrp": 1450
+    },
+    {
+     "name": "IMMUNOGLOBULIN IgG",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "IMMUNOGLOBULIN IgM",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "IMMUNOHISTOCHEMISTRY HER2NEU",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "IMMUNOPHENOTYPING FROM BONE MARROW\/ PERIPHERAL BLOOD ON FACS CANTO",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 12500,
+     "mrp": 22500
+    },
+    {
+     "name": "INFECTIOUS MONONUCLEOSIS\n(Heterophilic antibodies- Monospot test)",
+     "method": "Latex Agglutination",
+     "reported_on": "3rd Working Day",
+     "price": 575,
+     "mrp": 1550
+    },
+    {
+     "name": "INHIBIN B",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1600,
+     "mrp": 2850
+    },
+    {
+     "name": "INSULIN - FASTING",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "INSULIN - LIKE GROWTH FACTOR (IGF-I), SOMATOMEDIN- C",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1500,
+     "mrp": 2850
+    },
+    {
+     "name": "INSULIN - POST PRANDIAL(PP)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "INSULIN (RANDOM) - HORMONE ASSAYS",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "INSULIN LIKE GROWTH FACTOR BONDING PROTEIN (IGF-BP3)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)\/ELISA",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2300,
+     "mrp": 3650
+    },
+    {
+     "name": "INTACT PARATHYROID HORMONE (IPTH)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 600,
+     "mrp": 1500
+    },
+    {
+     "name": "INTERLEUKIN - 28B (RS12979860) GENOTYPING",
+     "method": "Real Time PCR",
+     "reported_on": "7th Working Day",
+     "price": 3250,
+     "mrp": 5150
+    },
+    {
+     "name": "INTERLEUKIN 28B RS12979860 GENOTYPING - QUALITATIVE (PCR)",
+     "method": "Real Time PCR",
+     "reported_on": "7th Working Day",
+     "price": 3250,
+     "mrp": 5150
+    },
+    {
+     "name": "INTERLUKIN-6 (IL-6)",
+     "method": "Electrochemilu minescence",
+     "reported_on": "3rd Working Day",
+     "price": 2250,
+     "mrp": 3450
+    },
+    {
+     "name": "INTRINSIC FACTOR IGG ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1550,
+     "mrp": 2550
+    },
+    {
+     "name": "INV 16 MUTATION ASSAY (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 3450,
+     "mrp": 5450
+    },
+    {
+     "name": "IRON",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "IRON DEFICIENCY PROFILE",
+     "method": "Spectrophotom\netry+ Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "IRON PROFILE BASIC",
+     "method": "Spectrophotom\netry+ Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 600
+    },
+    {
+     "name": "IRON STUDIES (FOR ANEMIA PROFILE)",
+     "method": "Colorimetric Spectro- photometry",
+     "reported_on": "Same Day",
+     "price": 1150,
+     "mrp": 2450
+    },
+    {
+     "name": "ISLET CELL ANTIBODY",
+     "method": "IFA\n(Immunofluore scenceAssay)\/E LISA",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1750,
+     "mrp": 2850
+    },
+    {
+     "name": "JAK2(EXON 12) MUTATION ANALYSIS",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 4500,
+     "mrp": 6850
+    },
+    {
+     "name": "JAPANESE ENCEPHALITIES VIRUS ANTIBODY-IGM",
+     "method": "Immunochrom atography",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1850
+    },
+    {
+     "name": "JAPANESE ENCEPHALITIES VIRUS by PCR",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 3250,
+     "mrp": 5250
+    },
+    {
+     "name": "JC POLIOMA VIRUS DNA BY REAL TIME PCR",
+     "method": "Real Time PCR",
+     "reported_on": "10th Working Day",
+     "price": 3450,
+     "mrp": 5450
+    },
+    {
+     "name": "KETONE",
+     "method": "Light microscopy",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "KOH PREPARATION FOR FUNGAL ELEMENTS",
+     "method": "Conventional fungal culture and sensitivity",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 150,
+     "mrp": 400
+    },
+    {
+     "name": "KOH PREPARATION FOR FUNGAL ELEMENTS (WET MOUNT)",
+     "method": "Conventional fungal culture and sensitivity",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 150,
+     "mrp": 400
+    },
+    {
+     "name": "LACTATE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "LACTATE - CSF",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "LACTIC DEHYDEROGENASE (LDH)",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 350
+    },
+    {
+     "name": "LACTIC DEHYDEROGENASE (LDH) - ASCITIC FLUID",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 500
+    },
+    {
+     "name": "LACTIC DEHYDEROGENASE (LDH) - CSF",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 500
+    },
+    {
+     "name": "LACTIC DEHYDEROGENASE (LDH) - PLEURAL FLUID",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 500
+    },
+    {
+     "name": "LE CELLS",
+     "method": "Romanowskyst aining",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 150,
+     "mrp": 350
+    },
+    {
+     "name": "LEAD",
+     "method": "GraphiteFurnac eAtomicAbsorp tionSpectromet\nry(GFAAS)",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "LEAD - 24 Hrs. Urine",
+     "method": "GraphiteFurnac eAtomicAbsorp tionSpectromet\nry(GFAAS)",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "LEISHMANIA ANTIBODY (KALAAZAR)\/rk-\n39 Antigen",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 950,
+     "mrp": 2050
+    },
+    {
+     "name": "LEPRA-STAIN",
+     "method": "Light Microscopy",
+     "reported_on": "3rd Working Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "LEPTOSPIRA IgG ANTIBODY - INFECTIOUS DISEASES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 700,
+     "mrp": 1600
+    },
+    {
+     "name": "LEPTOSPIRA IgM ANTIBODY - INFECTIOUS DISEASES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 700,
+     "mrp": 1600
+    },
+    {
+     "name": "LEUCOCYTE ALKALINE PHOSPHATASE(LAP) SCORE",
+     "method": "Spectrophotom etry& ICT",
+     "reported_on": "2nd Working Day",
+     "price": 950,
+     "mrp": 2050
+    },
+    {
+     "name": "LEUCOCYTE COMMON ANTIGEN (LCA):CD 45",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "LH (LEUTINIZING HORMONE)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 450
+    },
+    {
+     "name": "LH\/FSH RATIO",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 900
+    },
+    {
+     "name": "LIPASE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 600
+    },
+    {
+     "name": "LIPOPROTEIN A(LP-A)",
+     "method": "Nephelometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "LIQUID BASED CYTOLOGY",
+     "method": "Hybrid Capture 2 & Microscopy",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 1200
+    },
+    {
+     "name": "LITHIUM (LI)",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 350
+    },
+    {
+     "name": "LIVER-KIDNEY MICROSOME (LKM) - 1 ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "LUPUS ANTICOAGULANT",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "Same Day",
+     "price": 800,
+     "mrp": 1850
+    },
+    {
+     "name": "LUPUS ANTICOAGULANT (CONFIRMATORY)",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "Same Day",
+     "price": 1600,
+     "mrp": 2550
+    },
+    {
+     "name": "LUPUS ANTICOAGULANT (dRVVT- RUSSELL VIPER VENOM TIME )",
+     "method": "Viscosity based clot detection)",
+     "reported_on": "Same Day",
+     "price": 900,
+     "mrp": 2050
+    },
+    {
+     "name": "MAGNESIUM",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 500
+    },
+    {
+     "name": "MAGNESIUM -  URINE",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 500
+    },
+    {
+     "name": "MAGNESIUM - 24 Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 500
+    },
+    {
+     "name": "MALARIA ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1250
+    },
+    {
+     "name": "MALARIAL FALCIPARUM AND VIVAX ANTIGEN (PARASITE V)",
+     "method": "Immunochrom atography",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 400
+    },
+    {
+     "name": "MALARIAL PARASITE SPECIES IDENTIFICATION",
+     "method": "Leishman Staining & Microscopy",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "MALARIAL PARASITE(QBC)",
+     "method": "Light microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "MANTLE CELL LYMPHOMA MARKER:CYCLIN D1",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 1225,
+     "mrp": 1750
+    },
+    {
+     "name": "MANTOUX SKIN TEST",
+     "method": "Intradermal Skin Test",
+     "reported_on": "2nd Working Day",
+     "price": 130,
+     "mrp": 300
+    },
+    {
+     "name": "MARIJUANA",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 325,
+     "mrp": 650
+    },
+    {
+     "name": "MASSONS TRICHOME STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "MDS IN-SITU BY FISH",
+     "method": "FISH",
+     "reported_on": "5th Working Day",
+     "price": 7550,
+     "mrp": 11250
+    },
+    {
+     "name": "MEAN PLATELET VOLUME - MPV",
+     "method": "Coulter Principle (Impedance)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "MEASLES - PCR",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "MEASLES ANTIBODY IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "MEASLES ANTIBODY IGM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "MEGAKARYOCYTIC MARKER : CD 61",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MENINGOCOCCAL ANTIGEN",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1350,
+     "mrp": 2550
+    },
+    {
+     "name": "MERCURY",
+     "method": "AAS",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "MERCURY- HAIR",
+     "method": "AAS",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "MERCURY -NAILS",
+     "method": "AAS",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "MERCURY- URINE",
+     "method": "AAS",
+     "reported_on": "3rd Working Day",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "METABOLIC SCREEN - URINE",
+     "method": "Chemical Method",
+     "reported_on": "10th Working Day",
+     "price": 1450,
+     "mrp": 2250
+    },
+    {
+     "name": "METABOLIC SCREEN (COMPREHENSIVE) - URINE",
+     "method": "Chemical Method",
+     "reported_on": "10th Working Day",
+     "price": 3050,
+     "mrp": 4850
+    },
+    {
+     "name": "METANEPHRINE - FREE",
+     "method": "EIA(EnzymeIm munoassay)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1650,
+     "mrp": 3050
+    },
+    {
+     "name": "METANEPHRINES",
+     "method": "High Performance Liquid\nChromatograp",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1550,
+     "mrp": 2850
+    },
+    {
+     "name": "METHAMPHETAMINE",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "METHYL MALONIC ACID (MMA)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "2nd  Working Day",
+     "price": 1250,
+     "mrp": 1950
+    },
+    {
+     "name": "METHYLENE TETRAHYDROFOLATE REDUCTASE (MTHFR)",
+     "method": "Real Time PCR",
+     "reported_on": "5th Working Day",
+     "price": 4550,
+     "mrp": 6850
+    },
+    {
+     "name": "MICROALBUMIN - 24hrs Urine",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 500
+    },
+    {
+     "name": "MICROALBUMIN SPOT URINE",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 500
+    },
+    {
+     "name": "MICROALBUMIN\/CREATININE RATIO SPOT",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 550
+    },
+    {
+     "name": "MICROFILARIA ANTIBODY",
+     "method": "Immunochrom atography",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 575,
+     "mrp": 1250
+    },
+    {
+     "name": "MICROFILARIA ANTIGEN",
+     "method": "Immunochrom atography",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "MICROFILARIA DETECTION",
+     "method": "Light microscopy",
+     "reported_on": "Same Day",
+     "price": 275,
+     "mrp": 550
+    },
+    {
+     "name": "MILK ALLERGY",
+     "method": "ELISA",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "MILK PROTEIN (CASEIN) IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "MINERAL(CALCIUM)",
+     "method": "Spectrophotom etry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 230,
+     "mrp": 575
+    },
+    {
+     "name": "MISCELLANEOUS MARKER : HLA - DR",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MONTOUX",
+     "method": "Skin Test",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "MUCICARMINE STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "MUMPS IGG ANTIBODY - INFECTIOUS DISEASES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "MUMPS IGM ANTIBODY - INFECTIOUS DISEASES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "MUMPS- PCR",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "MYASTHENIA GRAVIS PROFILE AChR,ASMA,MUSK ROFILE",
+     "method": "IFA\/ELISA\/RIA",
+     "reported_on": "3rd Working Day",
+     "price": 12500,
+     "mrp": 18500
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR PERIPHERAL BLOOD (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR BAL (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR CSF (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR PLEURAL FLUID (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR SPUTUM (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR SYNOVIAL FLUID (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR TISSUE  (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX - PCR URINE",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM COMPLEX -PCR ASCITIC FLUID (QUALITATIVE)",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM TUBERCULOSIS DNA PCR - QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1800
+    },
+    {
+     "name": "MYCOBACTERIUM TUBERCULOSIS - GENE EXPERT",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 1900,
+     "mrp": 2750
+    },
+    {
+     "name": "MYCOBACTERIUM TUBERCULOSIS VIABLE PROKARYOTIC -mRNA PCR",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 1850,
+     "mrp": 3250
+    },
+    {
+     "name": "MYELO MONOCYTIC CELL MARKER : CD 14",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELO MONOCYTIC CELL MARKER : CD 64",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOID \/ HAIRY CELL \/ NHL DIFFERENTIATION",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOID CELL MARKER \/ GIST MARKER\n: CD 15",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOID CELL MARKER : CD 13",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOID CELL MARKER : CD 15",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOID CELL MARKER : CD 33",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOID CELL MARKER : MPO",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOID CELL MARKER:CD 15",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "MYELOMA IN - SITU",
+     "method": "FISH\/Gene Sequencing",
+     "reported_on": "5th Working Day",
+     "price": 7500,
+     "mrp": 10800
+    },
+    {
+     "name": "MYOGLOBIN - URINE",
+     "method": "Nephelometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "MYOGLOBIN-SERUM",
+     "method": "Electro\nChemiluminesc ence Immunoassay",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "NATURAL KILLER CELL MARKER : CD 16",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "NATURAL KILLER CELL MARKER : CD 56",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "NESTROFT TEST (NAKED EYE SINGLE TUBE RED CELL OSMOTIC FRAGILITY TEST)",
+     "method": "Spectrophotom etry (O.S.)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 300,
+     "mrp": 850
+    },
+    {
+     "name": "NICOTINE\/COTININE(URINE)",
+     "method": "Lateral Flow Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 1350,
+     "mrp": 2050
+    },
+    {
+     "name": "NMO- ANTI-AQUAPORIN-4,IGG",
+     "method": "Indirect Immunofluores cence",
+     "reported_on": "3rd Working Day",
+     "price": 2550,
+     "mrp": 4550
+    },
+    {
+     "name": "NMO- ANTI-AQUAPORIN-4,IGG-CSF",
+     "method": "Indirect Immunofluores cence",
+     "reported_on": "3rd Working Day",
+     "price": 2550,
+     "mrp": 4550
+    },
+    {
+     "name": "NON-METANEPHRINE - 24Hrs. Urine",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "3rd Working Day",
+     "price": 1550,
+     "mrp": 2850
+    },
+    {
+     "name": "OLIGOCLONAL BANDS CSF ELECTROPHORESIS BASED TEST",
+     "method": "Agarose Gel Electrophoresis",
+     "reported_on": "3rd Working Day",
+     "price": 3050,
+     "mrp": 4850
+    },
+    {
+     "name": "OSMOLALITY - URINE",
+     "method": "Freezing Point Depression",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "OSMOLALITY-SERUM",
+     "method": "Freezing Point Depression",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "OSMOTIC FRAGILITY TEST",
+     "method": "Manual",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "OSTEOCALCIN",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "3rd Working Day",
+     "price": 1650,
+     "mrp": 2450
+    },
+    {
+     "name": "OXALATE - 24 Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "P\/S FOR MICROFLARIA",
+     "method": "Light microscopy",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "P53 DELETION OR (DEL 17P)",
+     "method": "IHC",
+     "reported_on": "5th Working Day",
+     "price": 3850,
+     "mrp": 6500
+    },
+    {
+     "name": "PACKED CELL VOULME",
+     "method": "Coulter Principle (Impedance)",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "PAN B - CELL MARKER : CD 19",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PAN B - CELL MARKER : CD 20",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PAN B - CELL MARKER : CD 21",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PAN B - CELL MARKER : CD 22",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PAN T - CELL \/ EARLY MYELOID CELL MARKER : CD 7",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PAN T - CELL MARKER : CD 2",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PAN T - CELL MARKER : CD 3",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "P-ANCA (MPO)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1400
+    },
+    {
+     "name": "PAPP-A (PREGNANCY ASSOCIATED PARA PROTEIN-A)",
+     "method": "EIA(EnzymeIm munoassay)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 900,
+     "mrp": 1850
+    },
+    {
+     "name": "PARATHYROID HORMONE (PTH)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 525,
+     "mrp": 1450
+    },
+    {
+     "name": "PARIETAL CELL ANTIBODY",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1550,
+     "mrp": 2850
+    },
+    {
+     "name": "PAROXYSMAL NOCTURNAL HAEMOGLOBINURIA (PNH) DIAGNOSTIC PANEL",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 2550,
+     "mrp": 4550
+    },
+    {
+     "name": "PARVOVIRUS B19 IGG ANTIBODIES - INFECTIOUS DISEASE",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "3rd Working Day",
+     "price": 2050,
+     "mrp": 3550
+    },
+    {
+     "name": "PARVOVIRUS B19 IGM ANTIBODIES - INFECTIOUS DISEASE",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "3rd Working Day",
+     "price": 2050,
+     "mrp": 3550
+    },
+    {
+     "name": "PAS STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "PERITONEAL\/ASCITIC FLUID ANALYSIS",
+     "method": "Spectrophotom etry Microscopy",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 350
+    },
+    {
+     "name": "PERLS STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "PHENCYCLIDINE SCREEN - URINE - DRUG ASSAY",
+     "method": "Lateral Flow Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 325,
+     "mrp": 650
+    },
+    {
+     "name": "PHENOBARBITAL (GARDINAL)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 575,
+     "mrp": 1050
+    },
+    {
+     "name": "PHENYTOIN (DILANTIN\/EPTOIN\/EPSOLIN) - DRUG ASSAY",
+     "method": "Chemiluminesc enceMicroparti cle\nImmunoassay(",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "PHILADELPHIA CHROMOSOME SCREENING",
+     "method": "Karyotyping",
+     "reported_on": "15th Working Day",
+     "price": 2050,
+     "mrp": 3050
+    },
+    {
+     "name": "PHOSPHORUS",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "PHOSPHORUS 24 Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "PLASMA CELL \/ MULTIPLE MARKER : CD 138",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PLASMA CELL \/ PROGNOSTIC CLL MARKER : CD 38",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PLASMA RENIN",
+     "method": "RadioImmunoa ssay(RIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 3250,
+     "mrp": 5050
+    },
+    {
+     "name": "PLATELET COUNT",
+     "method": "Coulter Principle (Impedance)",
+     "reported_on": "Same Day",
+     "price": 50,
+     "mrp": 100
+    },
+    {
+     "name": "PLEURAL FLUID ANALYSIS",
+     "method": "Microscopy\/\nVCS\nTechnology Spectrophotom",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 350
+    },
+    {
+     "name": "PML-RARA (APML)",
+     "method": "FISH\/Real Time PCR",
+     "reported_on": "5th Working Day",
+     "price": 3750,
+     "mrp": 5850
+    },
+    {
+     "name": "PNEUMOCYSTIS CARINI DETECTION",
+     "method": "IFA\n(Immunofluore scenceAssay)",
+     "reported_on": "2nd Working Day",
+     "price": 1950,
+     "mrp": 2950
+    },
+    {
+     "name": "PNEUMOCYSTIS CARINII DETECTION Â†",
+     "method": "Light Microscopy",
+     "reported_on": "3rd Working Day",
+     "price": 1950,
+     "mrp": 2850
+    },
+    {
+     "name": "POLARISING MICROSCOPIC(SYNOVIAL FLUID)",
+     "method": "POLARISING MICROSCOPIC",
+     "reported_on": "Same Day",
+     "price": 1150,
+     "mrp": 2250
+    },
+    {
+     "name": "PORPHOBILILNOGEN - URINE",
+     "method": "Qualitative chemical method",
+     "reported_on": "2nd Working Day",
+     "price": 2350,
+     "mrp": 3550
+    },
+    {
+     "name": "POTASSIUM",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 180
+    },
+    {
+     "name": "POTASSIUM - 24 Hrs. Urine",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "POTASSIUM - URINE",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "PREALBUMIN",
+     "method": "Nephelometry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "PRECURSOR CELL MARKER : CD 34",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PRECURSOR CELL MARKER : TDT",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PREGNANCY TEST - URINE",
+     "method": "Immunochrom atography",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "PRO CALCITONIN",
+     "method": "Immunochrom atography",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1650,
+     "mrp": 3300
+    },
+    {
+     "name": "PRO-BETA NATRIURETIC PEPTIDE (BNP)",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Same Day",
+     "price": 1800,
+     "mrp": 2850
+    },
+    {
+     "name": "PROGESTERONE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 650
+    },
+    {
+     "name": "PROGNOSTIC ALL MARKER : CD10 (CALLA)",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PROGNOSTIC B - CLL MARKER : ZAP 70",
+     "method": "Flow Cytometry",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "PROLACTIN(POOLED)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "PROLACTIN(PRL)",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 450
+    },
+    {
+     "name": "PROSTATE SPECIFIC ANTIGEN (FREE) PSA",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 400,
+     "mrp": 1050
+    },
+    {
+     "name": "PROSTATE SPECIFIC ANTIGEN (TOTAL) PSA",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "PROSTATIC ACID PHOSPHATASE (PAP)",
+     "method": "Spectrophotom etry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 400,
+     "mrp": 850
+    },
+    {
+     "name": "PROTEIN - URINE SPOT TEST",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "PROTEIN C-FUNCTIONAL",
+     "method": "Enhanced Coagulation",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1840,
+     "mrp": 3450
+    },
+    {
+     "name": "PROTEIN ELECTROPHORESIS - CSF - ELECTROPHORESIS BAS",
+     "method": "Agarose Gel Electrophoresis",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "PROTEIN ELECTROPHORESIS - PLEURAL FLUID",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "PROTEIN ELECTROPHORESIS 24 Hrs.\nUrine",
+     "method": "Gel Electrophoresis",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "PROTEIN ELECTROPHORESIS- SERUM",
+     "method": "Densitometry, AgaroseGel Electrophoresis",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "PROTEIN S-FUNCTIONAL",
+     "method": "Enhanced Coagulation",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1840,
+     "mrp": 3450
+    },
+    {
+     "name": "PROTEIN TOTAL",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "PROTEIN TOTAL WITH ALBUMIN, GLOBULIN",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "PROTHROMBIN TIME & INR",
+     "method": "Triggered Coagulation & Clot Detection",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 300
+    },
+    {
+     "name": "PYRUVATE\/PYUVIC ACID",
+     "method": "Spectrophotom etry",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1380,
+     "mrp": 3450
+    },
+    {
+     "name": "RAPID PLASMA REAGIN (RPR TEST)",
+     "method": "SLIDE\nAgglutination",
+     "reported_on": "Same Day",
+     "price": 85,
+     "mrp": 190
+    },
+    {
+     "name": "RAPID PLASMA REAGIN (RPR -TITRE TEST)",
+     "method": "SLIDE\nAgglutination",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "RBC FOLATE",
+     "method": "ElectroChemilu minescence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "RESULT FOR JAK2 (V617F) MUTATION",
+     "method": "END POINT PCR",
+     "reported_on": "10th Working Day",
+     "price": 3750,
+     "mrp": 5850
+    },
+    {
+     "name": "RETICULIN STAIN",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "RETICULOCYTE COUNT",
+     "method": "Supravital Stain",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 300
+    },
+    {
+     "name": "RETICULOCYTE INDEX",
+     "method": "Light microscopy",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "RH ANTIBODY TITRE",
+     "method": "Manual",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 950
+    },
+    {
+     "name": "RHEUMATOID FACTOR (RA FACTOR) - QUANTITATIVE",
+     "method": "Immunoturbidi metry",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "RHEUMATOID FACTOR IGA ANTIBODY",
+     "method": "ELISA\nChemiluminesc ence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 950
+    },
+    {
+     "name": "RHEUMATOID FACTOR IGG ANTIBODY",
+     "method": "ELISA\nChemiluminesc ence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 950
+    },
+    {
+     "name": "RHEUMATOID FACTOR IGM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 950
+    },
+    {
+     "name": "RISK OF OVARIAN MALIGNANCY ALOGRITHM (ROMA)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "2nd Working Day",
+     "price": 2750,
+     "mrp": 4650
+    },
+    {
+     "name": "ROTA VIRUS ANTIGEN",
+     "method": "Immunoblot",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 350,
+     "mrp": 850
+    },
+    {
+     "name": "RPR (SEROLOGY FOR SYPHILIS)",
+     "method": "Slide Flocculation",
+     "reported_on": "Same Day",
+     "price": 85,
+     "mrp": 190
+    },
+    {
+     "name": "RUBELLA DNA PCR - QUALITATIVE",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "RUBELLA IgG AVIDITY",
+     "method": "ELISA -AVIDITY",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "RUBELLA VIRUS IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "RUBELLA VIRUS IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "SAAG(SERUM ASCITES-ALBUMIN GRADIENT)",
+     "method": "Bromo Cresol\nPurple Dye Binding- Calculated",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 550
+    },
+    {
+     "name": "SALMONELLA TYPHI IgG (TYPHI DOT)",
+     "method": "Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 650
+    },
+    {
+     "name": "SALMONELLA TYPHI IGM (TYPHI DOT)",
+     "method": "L.H.\nChromatograp hy",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 650
+    },
+    {
+     "name": "SCL-70 ANTIBODY",
+     "method": "Enzyme Immunoassay (EIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 800,
+     "mrp": 1850
+    },
+    {
+     "name": "SCRUB TYPHUS ANTIBODY",
+     "method": "Immuno chromatograph y",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "SCRUB TYPHUS IgM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 850,
+     "mrp": 1850
+    },
+    {
+     "name": "SELENIUM",
+     "method": "AAS",
+     "reported_on": "7th Working Day",
+     "price": 1850,
+     "mrp": 3550
+    },
+    {
+     "name": "SEMEN ANALYSIS",
+     "method": "Light microscopy",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "SEMEN FRUCTOSE",
+     "method": "Biochemical Analysis",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "SGOT\/AST (ASPARTATE AMINO- TRANSFERASE)",
+     "method": "IFCC without pyridoxal phosphate",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "SGPT\/ALT (ALANINE AMINO- TRANSFERASE)",
+     "method": "IFCC without pyridoxal phosphate",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "SHBG (SEX HORMONE BINDING GLOBULIN) - HORMONE ASSAY",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1150,
+     "mrp": 2550
+    },
+    {
+     "name": "SICKLING TEST",
+     "method": "Deoxygenation\n\/Microscopy",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 350
+    },
+    {
+     "name": "SLIT SKIN SMEAR FOR LEPROSY",
+     "method": "Light Microscopy",
+     "reported_on": "3rd Working Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "SM\/RNP ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 650,
+     "mrp": 1550
+    },
+    {
+     "name": "SMEAR FOR GONOCOCCI",
+     "method": "Light Microscopy",
+     "reported_on": "3rd Working Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "SODIUM",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 180
+    },
+    {
+     "name": "SODIUM - 24 Hrs. Urine",
+     "method": "ISE Direct",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "SODIUM SPOT URINE",
+     "method": "Ion Selective Electrode",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "SPECIAL STAINS",
+     "method": "Microscopy",
+     "reported_on": "2nd Working Day",
+     "price": 425,
+     "mrp": 850
+    },
+    {
+     "name": "SPOT PROTEIN\/CREATININE RATIO",
+     "method": "Modifie Jaffe Kinetic\/Biuret",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "STAIN- INDIAN INK",
+     "method": "Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "STONE ANALYSIS",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 650,
+     "mrp": 1450
+    },
+    {
+     "name": "STOOL EXAMINATION - ROUTINE",
+     "method": "Benedict’s Test Microscopy",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "STOOL EXAMINATION FOR CRYPTOSPORIDIUM",
+     "method": "Light Microscopy",
+     "reported_on": "3rd Working Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "STOOL EXAMINATION FOR REDUCING SABSTANCES",
+     "method": "Benedict’s Test",
+     "reported_on": "Same Day",
+     "price": 90,
+     "mrp": 200
+    },
+    {
+     "name": "STOOL FOR OCCULT BLOOD",
+     "method": "Benzidine, Microscopy",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "STOOL FOR PH LEVEL",
+     "method": "Chemical Method",
+     "reported_on": "Same Day",
+     "price": 45,
+     "mrp": 100
+    },
+    {
+     "name": "STREPTOCOCCUS GROUP B ANTIGEN",
+     "method": "Latex Agglutination",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "SUPRESSOR T - CELL MARKER : CD 8",
+     "method": "Flow Cytometry-BD FACSC Calibur",
+     "reported_on": "2nd Working Day",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "SYNOVIAL FLUID FOR CRYSTALS",
+     "method": "Polarization Microscopy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 230,
+     "mrp": 600
+    },
+    {
+     "name": "T-CELL\/B-CELL SUBSET MARKER : CD5",
+     "method": "Flow Cytometry-BD FACSC Calibur",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 1550
+    },
+    {
+     "name": "TACROLIMUS - DRUG ASSAY",
+     "method": "Chemiluminesc enceMicroparti cle\nImmunoassay(",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1650,
+     "mrp": 3550
+    },
+    {
+     "name": "TESTOSTERONE FREE - HORMONE ASSAYS",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 450,
+     "mrp": 1150
+    },
+    {
+     "name": "TESTOSTERONE TOTAL",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 600
+    },
+    {
+     "name": "THALASSEMIA BETA GLOBIN GENE SEQUENCING",
+     "method": "Gene Sequencing",
+     "reported_on": "21st Working Day",
+     "price": 10500,
+     "mrp": 15500
+    },
+    {
+     "name": "THEOPHYLIN",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 600,
+     "mrp": 1150
+    },
+    {
+     "name": "THROMBIN TIME",
+     "method": "Coagulation\nMethod Electro mechanical Clot Detection",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "THROMBOTIC PROFILE",
+     "method": "Spectrophotom\netry Turbidometry Enhanced",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 7500,
+     "mrp": 12500
+    },
+    {
+     "name": "THYROGLOBULIN",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "THYROID PROFILE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 600
+    },
+    {
+     "name": "THYROID PROFILE FREE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 700
+    },
+    {
+     "name": "THYROID STIMULATING HORMONE (TSH)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 45,
+     "mrp": 300
+    },
+    {
+     "name": "THYROXINE BINDING GLOBULIN",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 3550,
+     "mrp": 5550
+    },
+    {
+     "name": "THYROXINE FREE (FT4)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 350
+    },
+    {
+     "name": "THYROXINE TOTAL (T4)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 45,
+     "mrp": 300
+    },
+    {
+     "name": "TIBC (TOTAL IRON BINDING CAPACITY)",
+     "method": "See Individual Assays",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 250
+    },
+    {
+     "name": "TISSUE TRANSGLUTAMINASE ANTIBODY IGA (TTG IgA)",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 500,
+     "mrp": 1250
+    },
+    {
+     "name": "TISSUE TRANSGLUTAMINASE IGG ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 500,
+     "mrp": 1250
+    },
+    {
+     "name": "TISSUE TRANSGLUTAMINASE IGM ANTIBODY",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 500,
+     "mrp": 1250
+    },
+    {
+     "name": "TLC & DLC",
+     "method": "Microscopy\/\nVCS\nTechnology Microscopy",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "TOTAL IgE",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 230,
+     "mrp": 650
+    },
+    {
+     "name": "TOTAL LEUKOCYTE COUNT (TLC)",
+     "method": "Coulter Principle (Impedance)",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 180
+    },
+    {
+     "name": "TOXOPLASMA DNA PCR - QUALITATIVE",
+     "method": "Real Time PCR",
+     "reported_on": "3rd Working Day",
+     "price": 2450,
+     "mrp": 3850
+    },
+    {
+     "name": "TOXOPLASMA GONDII IgG",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "TOXOPLASMA GONDII IgM",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Same Day",
+     "price": 115,
+     "mrp": 550
+    },
+    {
+     "name": "TOXOPLASMA IgG AVIDITY",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "TPHA (TREPONEMA PALLIDUM HAEMAGGIUTINATION)",
+     "method": "Agglutination",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "TPMT ENZYME ACTIVITY",
+     "reported_on": "2nd Working Day",
+     "price": 3450,
+     "mrp": 5050
+    },
+    {
+     "name": "TRANSFERRIN",
+     "method": "See Individual Assays",
+     "reported_on": "Same Day",
+     "price": 575,
+     "mrp": 1050
+    },
+    {
+     "name": "TRANSFERRIN SATURATION",
+     "method": "Electrochemilu minescence",
+     "reported_on": "Same Day",
+     "price": 280,
+     "mrp": 750
+    },
+    {
+     "name": "TRIGLYCERIDE - URINE",
+     "method": "Enzymatic Colorimetric",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "TRIGLYCERIDES - Serum",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "TRIODOTHYRONINE FREE (FT3)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 70,
+     "mrp": 350
+    },
+    {
+     "name": "TRIODOTHYRONINE TOTAL (T3)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 45,
+     "mrp": 300
+    },
+    {
+     "name": "TROPONIN - I",
+     "method": "L.H.\nChromatograp hy\/ELISA",
+     "reported_on": "Same Day",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "TROPONIN - T",
+     "method": "L.H.\nChromatograp hy\/ELISA",
+     "reported_on": "Same Day",
+     "price": 800,
+     "mrp": 1650
+    },
+    {
+     "name": "TUBERCULOSIS - GAMMA INTERFERON - QUANTIFERON",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "2nd Working Day",
+     "price": 950,
+     "mrp": 2250
+    },
+    {
+     "name": "TUMOR NECROSIS FACTOR (TNF) - ALPHA",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "2nd Working Day",
+     "price": 2050,
+     "mrp": 3550
+    },
+    {
+     "name": "U1-NRNP ANTIBODIES",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1150,
+     "mrp": 2450
+    },
+    {
+     "name": "UIBC--SERUM",
+     "method": "Direct Determination With Ferrozinc",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 400
+    },
+    {
+     "name": "UREA - 24Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "UREA - SERUM",
+     "method": "Urease\nColorimetric Spectrophotom etry Calculated",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "UREA - URINE SPOT",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "UREA \/ CREATININE RATIO",
+     "method": "Urease\nColorimetric Spectrophotom etry Calculated",
+     "reported_on": "Same Day",
+     "price": 175,
+     "mrp": 350
+    },
+    {
+     "name": "URIC ACID -  SERUM",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "URIC ACID URINE SPOT",
+     "method": "Urease\nColorimetric Spectrophotom etry Calculated",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "URIC ACID-URINE 24 Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "URINARY ELECTROLYTES (Na,K & Cl)",
+     "method": "ISE DIRECT",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "URINE DRUG SCREEN - PHENCYCLIDINE",
+     "method": "LFIC",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN -AMPHETAMINES",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN - BENZODIAZEPINES",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN-BARBITURATES",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Same Day",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN-CANNABINOIDS",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN-COCAINE",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN-CODEINE",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN-HEROIN",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN-MORPHINE",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE DRUG SCREEN-OPIATES",
+     "method": "Lateral Flow\nImmuno Chromatograp hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 550,
+     "mrp": 1150
+    },
+    {
+     "name": "URINE EXAMINATION ROUTINE",
+     "method": "Double\nIndicators Test Refractometric Oxidation",
+     "reported_on": "Same Day",
+     "price": 45,
+     "mrp": 100
+    },
+    {
+     "name": "URINE FOR CHYLE",
+     "method": "Chemical Method",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 250,
+     "mrp": 600
+    },
+    {
+     "name": "URINE FOR FAT GLOBULES",
+     "method": "Light Microscopy",
+     "reported_on": "Same Day",
+     "price": 90,
+     "mrp": 200
+    },
+    {
+     "name": "URINE PROTEIN - 24Hrs. Urine",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "VALPROIC ACID (SODIUM VALPROATE)",
+     "method": "Spectrophotom etry",
+     "reported_on": "Same Day",
+     "price": 450,
+     "mrp": 950
+    },
+    {
+     "name": "VARICELLA ZOSTER VIRUS IGM (CHICKEN POX) - INFECTION",
+     "method": "Enzyme linked immunosorben t assay (ELISA)",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 750,
+     "mrp": 1650
+    },
+    {
+     "name": "VITAMIN A (RATINOL)",
+     "method": "ELISA\/HPLC",
+     "reported_on": "2nd Working Day",
+     "price": 2050,
+     "mrp": 4250
+    },
+    {
+     "name": "VITAMIN B1 (THIAMINE)",
+     "method": "ELISA\/HPLC",
+     "reported_on": "2nd Working Day",
+     "price": 2050,
+     "mrp": 4250
+    },
+    {
+     "name": "VITAMIN B12 (CYANOCOBALAMIN)",
+     "method": "Chemiluminesc\nence Immunoassay (CLIA)",
+     "reported_on": "Same Day",
+     "price": 200,
+     "mrp": 850
+    },
+    {
+     "name": "VITAMIN B6  (PYRIDOXINE)",
+     "method": "ELISA\/HPLC",
+     "reported_on": "2nd Working Day",
+     "price": 2050,
+     "mrp": 4250
+    },
+    {
+     "name": "VITAMIN C (ASCORBIC ACID)",
+     "method": "ELISA\/HPLC",
+     "reported_on": "2nd Working Day",
+     "price": 2050,
+     "mrp": 4250
+    },
+    {
+     "name": "VITAMIN D 25-HYDROXY",
+     "method": "Enhanced\nChemiluminesc ence (Ultre Sensitive 4th",
+     "reported_on": "Same Day",
+     "price": 550,
+     "mrp": 1200
+    },
+    {
+     "name": "VITAMIN E (TOCOPHEROL)",
+     "method": "ELISA\/HPLC",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2250,
+     "mrp": 5050
+    },
+    {
+     "name": "VLDL -VERY LOW DENSITY LIPOPROTEIN",
+     "method": "Calculated",
+     "reported_on": "Same Day",
+     "price": 150,
+     "mrp": 350
+    },
+    {
+     "name": "VMA - 24Hrs. Urine",
+     "method": "Biochemical\nColumn ChromatuGrap hy",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 2050,
+     "mrp": 4250
+    },
+    {
+     "name": "VON WILLEBRAND FACTOR ANTIGEN; VWF",
+     "method": "Latex Immunoassay",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 6850,
+     "mrp": 13800
+    },
+    {
+     "name": "WEIL FELIX TEST - INFECTIOUS DISEASES",
+     "method": "Heterophile agglutination",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 500,
+     "mrp": 1050
+    },
+    {
+     "name": "WIDAL (SLIDE AGGLUTINATION)",
+     "method": "Slide Immunoassay Method",
+     "reported_on": "Same Day",
+     "price": 60,
+     "mrp": 150
+    },
+    {
+     "name": "WIDAL (TUBE AGGLUTINATION)",
+     "method": "TUBE IMMUNOASSA Y METHOD",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 100,
+     "mrp": 230
+    },
+    {
+     "name": "ZINC -Serum",
+     "method": "AAS (Atomic Absorption Spectrometry )",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "ZINC- URINE",
+     "method": "AAS (Atomic Absorption Spectrometry )",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    },
+    {
+     "name": "ZINC-Plasma",
+     "method": "AAS (Atomic Absorption Spectrometry )",
+     "reported_on": "Next day Evening Except Sunday",
+     "price": 1050,
+     "mrp": 2050
+    }
+   ]

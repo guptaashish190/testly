@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801821654029",
+    "project_id": "testly-33276",
+    "storage_bucket": "testly-33276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801821654029:android:b88665f580b7b65e31e944",
+        "android_client_info": {
+          "package_name": "com.example.testly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801821654029-3ivboujoncmthni3uonvd6vo661q7nil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn21fdtyQ9br1_eDK32inkEDbse4ri0Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801821654029-3ivboujoncmthni3uonvd6vo661q7nil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
