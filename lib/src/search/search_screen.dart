@@ -1,17 +1,11 @@
 import 'dart:math';
 
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:otp_text_field/otp_field.dart';
-import 'package:otp_text_field/otp_text_field.dart';
-import 'package:otp_text_field/style.dart';
 import 'package:testly/common/app_bar/app_bar.dart';
 import 'package:testly/common/providers/test/model/test_model.dart';
 import 'package:testly/common/providers/test/test_provider.dart';
 import 'package:testly/constants/colors.dart';
-import 'package:testly/constants/snackbar.dart';
-import 'package:testly/constants/strings.dart';
 import 'package:testly/src/test_detail/test_detail_screen.dart';
 import 'package:testly/src/widgets/app_text.dart';
 import 'package:testly/src/widgets/spacing.dart';
